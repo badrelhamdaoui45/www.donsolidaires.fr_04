@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+        <html>
+            
+<!-- Mirrored from www.donsolidaires.fr/document/share/32/c4036dc1-c657-4345-bf60-003c668a1d7e by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 04 Mar 2024 09:04:01 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+                <meta charset="utf-8"/>
+                <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+                <title>Odoo</title>
+                <link type="image/x-icon" rel="shortcut icon" href="../../../web/static/img/favicon.ico"/>
+                <script id="web.layout.odooscript" type="text/javascript">
+                    var odoo = {
+                        csrf_token: "dfff9206f2828a700bd4aacbe4945047959eba42o1741079042",
+                        debug: "",
+                    };
+                </script>
+                <script type="text/javascript">
+                    odoo.__session_info__ = {"is_admin": false, "is_system": false, "user_id": 4};
+                </script>
+                <script type="text/javascript" src="../../../web/assets/383453-52056b3/web.assets_common.min.js" data-asset-bundle="web.assets_common" data-asset-version="52056b3"></script>
+                <link type="text/css" rel="stylesheet" href="../../../web/assets/383451-52056b3/web.assets_common.min.css" data-asset-bundle="web.assets_common" data-asset-version="52056b3"/>
+                <link type="text/css" rel="stylesheet" href="../../../web/assets/383452-84823a9/web.assets_backend.min.css" data-asset-bundle="web.assets_backend" data-asset-version="84823a9"/>
+                <link type="text/css" rel="stylesheet" href="../../../web/assets/377377-c674774/documents.public_page_assets.min.css" data-asset-bundle="documents.public_page_assets" data-asset-version="c674774"/>
+        <script type="text/javascript" src="../../../web/assets/377378-c674774/documents.public_page_assets.min.js" data-asset-bundle="documents.public_page_assets" data-asset-version="c674774"></script>
+                <style>
+                    html, body {
+                        overflow: auto;
+                    }
+                </style>
+            </head>
+            <body class="o_docs_share_page o_home_menu_background">
+            <div id="wrap" class="h-100 flex-column flex-nowrap d-flex position-relative container o_share_single">
+                <header class="mt8">
+                    <span class="o_company_logo" alt="Logo of Dons Solidaires" title="Dons Solidaires"><img src="../../../web/image/res.company/1/logo/Dons%20Solidairesd599?unique=6c2934b" class="img img-fluid" alt="Dons Solidaires" loading="lazy"/></span>
+                    <ul class="list-inline mt8 float-right">
+                        <li>
+                            <a class="col-sm-6 o_docs_btn" href="../../../web/login7ef9?redirect=https://ds-solidaires.odoo.com/document/share/32/c4036dc1-c657-4345-bf60-003c668a1d7e">Login</a>
+                        </li>
+                    </ul>
+                </header>
+                <main class="d-flex flex-column flex-nowrap">
+            <div class="o_docs_single_container">
+    <article class="o_card d-flex mb4  " title="">
+                    <figure class="o_image m-0" data-mimetype="application/pdf"></figure>
+                    <div class="o_card_content flex-column flex-nowrap d-flex">
+                        <header>
+                            <h3 class="o_card_title mt4 mb8">
+                                <a target="new" href="https://ds-solidaires.odoo.com/document/download/32/c4036dc1-c657-4345-bf60-003c668a1d7e/89" title="Download Bilan-Noël-pour-Tous-2019.pdf">Bilan-Noël-pour-Tous-2019.pdf</a>
+                            </h3>
+                        </header>
+                        <div class="o_card_footer">
+                            <b>
+        <b>2 <b>Mb</b></b>
+                                ∙ <time>Mar 10, 2023</time>
+                            </b>
+                        </div>
+                    </div>
+                </article>
+                <div class="o_docs_single_actions col-sm-12 justify-content-between flex-row flex-wrap text-center">
+                    <a target="new" class="btn btn-lg o_docs_btn mt16" href="https://ds-solidaires.odoo.com/document/download/32/c4036dc1-c657-4345-bf60-003c668a1d7e/89" title="Download Bilan-Noël-pour-Tous-2019.pdf">
+                        <span><i class="fa fa-download fa-fw"></i> Download</span>
+                    </a>
+                </div>
+            </div>
+                </main>
+                <footer class="flex-grow-0 flex-shrink-0 mb16 mt32 ">
+                    <div class="text-center col-sm-12">
+                        <br/>Powered by <a target="_blank" title="Odoo Website" href="http://www.odoo.com/app/documents"><img class="o_object_fit_cover align-text-top" height="15" src="../../../web/static/img/logo_inverse_white_206px.png" alt="Odoo Logo" loading="lazy"/><span style="color:white;">&nbsp;Documents.</span></a>
+                    </div>
+                </footer>
+            </div>
+            </body>
+        
+<!-- Mirrored from www.donsolidaires.fr/document/share/32/c4036dc1-c657-4345-bf60-003c668a1d7e by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 04 Mar 2024 09:04:01 GMT -->
+</html>

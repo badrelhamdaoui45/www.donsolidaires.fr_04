@@ -1,0 +1,1118 @@
+<!DOCTYPE html>
+        <html lang="fr-FR" data-website-id="1" data-main-object="website.page(193,)" data-oe-company-name="Dons Solidaires" data-add2cart-redirect="1">
+    
+<!-- Mirrored from www.donsolidaires.fr/notre-expertise-et-nos-garanties by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 04 Mar 2024 09:02:35 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+                <meta charset="utf-8"/>
+                <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+            <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <meta name="generator" content="Odoo"/>
+        <meta name="description" content="Confier vos dons de produits à Dons Solidaires, c’est choisir une solution clé en main pour la gestion logistique de vos invendus depuis votre lieu de stockage."/>
+                        <meta property="og:type" content="website"/>
+                        <meta property="og:title" content="Don d&#39;invendus : l&#39;expertise et les garanties de Dons Solidaires "/>
+                        <meta property="og:site_name" content="Dons Solidaires"/>
+                        <meta property="og:url" content="notre-expertise-et-nos-garanties"/>
+                        <meta property="og:image" content="web/image/website/1/social_default_imageb1d9?unique=285ca43"/>
+                        <meta property="og:description" content="Confier vos dons de produits à Dons Solidaires, c’est choisir une solution clé en main pour la gestion logistique de vos invendus depuis votre lieu de stockage."/>
+                    <meta name="twitter:card" content="summary_large_image"/>
+                    <meta name="twitter:title" content="Don d&#39;invendus : l&#39;expertise et les garanties de Dons Solidaires "/>
+                    <meta name="twitter:image" content="web/image/website/1/social_default_imageb1d9?unique=285ca43"/>
+                    <meta name="twitter:description" content="Confier vos dons de produits à Dons Solidaires, c’est choisir une solution clé en main pour la gestion logistique de vos invendus depuis votre lieu de stockage."/>
+        <link rel="canonical" href="notre-expertise-et-nos-garanties"/>
+        <link rel="preconnect" href="../fonts.gstatic.com/index.html" crossorigin=""/>
+                <title>Don d&#39;invendus : l&#39;expertise et les garanties de Dons Solidaires </title>
+                <link type="image/x-icon" rel="shortcut icon" href="web/image/website/1/favicond599?unique=6c2934b"/>
+            <link rel="preload" href="web/static/lib/fontawesome/fonts/fontawesome-webfont3e6e.woff2?v=4.7.0" as="font" crossorigin=""/>
+            <link type="text/css" rel="stylesheet" href="web/assets/383456-9354809/1/web.assets_common.min.css" data-asset-bundle="web.assets_common" data-asset-version="9354809"/>
+            <link type="text/css" rel="stylesheet" href="web/assets/382870-a7ee59d/1/web.assets_frontend.min.css" data-asset-bundle="web.assets_frontend" data-asset-version="a7ee59d"/>
+                <script id="web.layout.odooscript" type="text/javascript">
+                    var odoo = {
+                        csrf_token: "7d8594d51d748e01cef7b36ab688126e121ab602o1741078927",
+                        debug: "",
+                    };
+                </script>
+            <script type="text/javascript">
+                odoo.__session_info__ = {"is_admin": false, "is_system": false, "is_website_user": true, "user_id": false, "is_frontend": true, "profile_session": null, "profile_collectors": null, "profile_params": null, "show_effect": "True", "translationURL": "/website/translations", "cache_hashes": {"translations": "a424f8024938c1329cc0f372af76217872837b78"}, "lang_url_code": "fr", "geoip_country_code": "MA"};
+                if (!/(^|;\s)tz=/.test(document.cookie)) {
+                    const userTZ = Intl.DateTimeFormat().resolvedOptions().timeZone;
+                    document.cookie = `tz=${userTZ}; path=/`;
+                }
+            </script>
+            <script defer="defer" type="text/javascript" src="web/assets/293495-9b03c68/1/web.assets_common_minimal.min.js" data-asset-bundle="web.assets_common_minimal" data-asset-version="9b03c68"></script>
+            <script defer="defer" type="text/javascript" src="web/assets/249756-ac44e01/1/web.assets_frontend_minimal.min.js" data-asset-bundle="web.assets_frontend_minimal" data-asset-version="ac44e01"></script>
+            <script defer="defer" type="text/javascript" data-src="/web/assets/383432-86dd63f/1/web.assets_common_lazy.min.js" data-asset-bundle="web.assets_common_lazy" data-asset-version="86dd63f"></script>
+            <script defer="defer" type="text/javascript" data-src="/web/assets/382871-953e7a6/1/web.assets_frontend_lazy.min.js" data-asset-bundle="web.assets_frontend_lazy" data-asset-version="953e7a6"></script>
+        <link rel="preconnect" href="../fonts.googleapis.com/index.html">
+<link rel="preconnect" href="../fonts.gstatic.com/index.html" crossorigin>
+<link href="../fonts.googleapis.com/css2928c?family=Lato:ital,wght@0,400;0,700;1,400;1,700&amp;family=Poppins:wght@700&amp;display=swap" rel="stylesheet">
+    <script type="text/javascript" src="https://cache.consentframework.com/js/pa/34042/c/hwUXb/stub" referrerpolicy="origin"></script>
+<script>
+window.Sddan = {
+    "info": {
+        "hd_m" : "",
+        "hd_s256" : "",
+        "uf_postal_code" : "",
+        "uf_bday" : "",
+        "uf_gender" : "",
+    }
+};
+</script>
+<script type="text/javascript" src="https://choices.consentframework.com/js/pa/34042/c/hwUXb/cmp" referrerpolicy="origin" async></script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'../www.googletagmanager.com/gtm5445.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WHVKFV3');</script>
+<!-- End Google Tag Manager -->
+    </head>
+            <body class="">
+        <div id="wrapwrap" class="   ">
+    <header id="top" data-anchor="true" data-name="Header" class="  o_header_standard">
+    <nav data-name="Navbar" class="navbar navbar-expand-lg navbar-light o_colored_level o_cc shadow-sm">
+            <div id="top_menu_container" class="container justify-content-start justify-content-lg-between">
+    <a href="index.html" class="navbar-brand logo mr-4">
+            <span role="img" aria-label="Logo of Dons Solidaires - Donner, Distribuer, Partager" title="Dons Solidaires - Donner, Distribuer, Partager"><img src="web/image/website/1/logo/Dons%20Solidaires%20-%20Donner%2c%20Distribuer%2c%20Partagerd599?unique=6c2934b" class="img img-fluid" alt="Dons Solidaires - Donner, Distribuer, Partager" loading="lazy"/></span>
+        </a>
+                <div id="top_menu_collapse" class="collapse navbar-collapse order-last order-lg-0">
+    <ul id="top_menu" role="menu" class="nav navbar-nav o_menu_loading flex-grow-1">
+    <li class="nav-item dropdown  ">
+        <a data-toggle="dropdown" href="#" class="nav-link dropdown-toggle ">
+            <span>Nous connaître</span>
+        </a>
+        <ul class="dropdown-menu" role="menu">
+    <li role="presentation" class="">
+        <a role="menuitem" href="qui-sommes-nous" class="dropdown-item ">
+            <span>Qui sommes nous </span>
+        </a>
+    </li>
+    <li role="presentation" class="">
+        <a role="menuitem" href="nos-missions" class="dropdown-item ">
+            <span>Nos missions</span>
+        </a>
+    </li>
+    <li role="presentation" class="">
+        <a role="menuitem" href="nos-equipes" class="dropdown-item ">
+            <span>Nos équipes</span>
+        </a>
+    </li>
+    <li role="presentation" class="">
+        <a role="menuitem" href="domaines-d-intervention" class="dropdown-item ">
+            <span>Domaines d&#39;intervention</span>
+        </a>
+    </li>
+    <li role="presentation" class="">
+        <a role="menuitem" href="antennes-regionales" class="dropdown-item ">
+            <span>Antennes régionales</span>
+        </a>
+    </li>
+    <li role="presentation" class="">
+        <a role="menuitem" href="nous-rejoindre" class="dropdown-item ">
+            <span>Nous rejoindre</span>
+        </a>
+    </li>
+        </ul>
+    </li>
+    <li class="nav-item dropdown  ">
+        <a data-toggle="dropdown" href="#" class="nav-link dropdown-toggle ">
+            <span>Vous êtes</span>
+        </a>
+        <ul class="dropdown-menu" role="menu">
+    <li role="presentation" class="">
+        <a role="menuitem" href="entreprise" class="dropdown-item ">
+            <span>Entreprise</span>
+        </a>
+    </li>
+    <li role="presentation" class="">
+        <a role="menuitem" href="association" class="dropdown-item ">
+            <span>Association</span>
+        </a>
+    </li>
+    <li role="presentation" class="">
+        <a role="menuitem" href="particuliers" class="dropdown-item ">
+            <span>Particuliers</span>
+        </a>
+    </li>
+    <li role="presentation" class="">
+        <a role="menuitem" href="je-suis-une-institution" class="dropdown-item ">
+            <span>Institution</span>
+        </a>
+    </li>
+        </ul>
+    </li>
+    <li class="nav-item dropdown  ">
+        <a data-toggle="dropdown" href="#" class="nav-link dropdown-toggle ">
+            <span>Nos publications</span>
+        </a>
+        <ul class="dropdown-menu" role="menu">
+    <li role="presentation" class="">
+        <a role="menuitem" href="nos-etudes" class="dropdown-item ">
+            <span>Nos études</span>
+        </a>
+    </li>
+    <li role="presentation" class="">
+        <a role="menuitem" href="nos-bilans-doperation" class="dropdown-item ">
+            <span>Nos bilans d’opération</span>
+        </a>
+    </li>
+    <li role="presentation" class="">
+        <a role="menuitem" href="nos-rapports-dactivite" class="dropdown-item ">
+            <span>Nos rapports d’activité</span>
+        </a>
+    </li>
+        </ul>
+    </li>
+    <li class="nav-item dropdown  ">
+        <a data-toggle="dropdown" href="#" class="nav-link dropdown-toggle ">
+            <span>Actualités</span>
+        </a>
+        <ul class="dropdown-menu" role="menu">
+    <li role="presentation" class="">
+        <a role="menuitem" href="blog/actualites-dons-solidaires-3" class="dropdown-item ">
+            <span>Nos actus</span>
+        </a>
+    </li>
+    <li role="presentation" class="">
+        <a role="menuitem" href="dans-les-medias" class="dropdown-item ">
+            <span>Dans les médias</span>
+        </a>
+    </li>
+        </ul>
+    </li>
+    <li role="presentation" class="nav-item">
+        <a role="menuitem" href="contact" class="nav-link ">
+            <span>Nous contacter</span>
+        </a>
+    </li>
+        <li class="nav-item mx-lg-3 divider d-none"></li> 
+        <li class="o_wsale_my_cart align-self-md-start  nav-item mx-lg-3">
+            <a href="shop/cart" class="nav-link">
+                <i class="fa fa-shopping-cart"></i>
+                <sup class="my_cart_quantity badge badge-primary" data-order-id="">0</sup>
+    </a>
+        </li>
+            <li class="nav-item ml-lg-auto o_no_autohide_item">
+                <a href="web/login" class="nav-link font-weight-bold">Se connecter</a>
+            </li>
+    </ul>
+                </div>
+    <div class="oe_structure oe_structure_solo ml-lg-4"></div>
+    <button type="button" data-toggle="collapse" data-target="#top_menu_collapse" class="navbar-toggler ml-auto">
+        <span class="navbar-toggler-icon o_not_editable"></span>
+    </button>
+            </div>
+    </nav>
+    </header>
+                <main>
+    <div id="wrap" class="oe_structure oe_empty">
+      <section id="s_av93p5st_v2" class="py-4 o_colored_level pb0 pt0" style="background-image: none;" data-snippet="custom_header_page" data-original-title="" title="" aria-describedby="tooltip63854" data-name="Entête">
+        <div class="justify-content-center container">
+          <div class="grid_container" data-original-title="" title="" aria-describedby="tooltip607632">
+            <img src="web/image/237962-f175d3a2/image00005.jpg" alt="" loading="lazy" data-original-id="237961" data-original-src="/web/image/237961-0c2b262c/image00005.jpg" data-mimetype="image/jpeg" data-resize-width="1057"/>
+            <div class="content grid_breadcrumb_title">
+              <div class="custom_breadcrumb pb-4" data-original-title="" title="" aria-describedby="tooltip271882">
+                <p>
+                  <span style="font-size: 14px;" data-original-title="" title="" aria-describedby="tooltip81802">
+                    <a href="index.html">Accueil</a>
+                  </span>
+                  <span style="font-size: 14px;">
+                </span>
+                  <span class="o_default_snippet_text">
+                    <span style="font-size: 14px;"> &gt;&nbsp;</span>
+                  </span>
+                  <span style="font-size: 14px;">
+                </span>
+                  <span style="font-size: 14px;" data-original-title="" title="" aria-describedby="tooltip534570"><u><a href="index.html">Entreprise</a></u>​</span>
+                </p>
+              </div>
+              <div class="title">
+                <p>
+                        Notre expertise et nos garanties<br/></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_text_block o_colored_level pt0 pb0" data-snippet="s_text_block" style="background-image: none;" data-name="Bandeau orange">
+        <div class="s_allow_columns container">
+          <p style="text-align: center;" class="bgorange pt16 pb16 px-5 m-0">
+            <span class="o_default_snippet_text"></span>
+            <font class="text-o-color-4">
+            Confier ses dons de produits à Dons Solidaires, <strong>c’est choisir une solution clé en main&nbsp;</strong></font>
+            <br/>
+            <font class="text-o-color-4"><strong>pour la gestion logistique de vos invendus depuis leur lieu de stockage.&nbsp;</strong>&nbsp;</font>
+            <br/>
+          </p>
+        </div>
+      </section>
+      <section class="s_text_block o_colored_level pt0 pb0" data-snippet="s_text_block" style="background-image: none;" data-name="Texte fond blanc">
+        <div class="s_allow_columns bgblanc px-5 py-3 container">
+          <div class="s_hr text-left pt32 pb32" data-snippet="s_hr" data-name="Separator">
+            <hr class="w-100 mx-auto" style="border-top-style: solid; border-top-width: 0px !important;"/>
+          </div>
+          <h2 style="text-align: justify;">
+                Les garanties de Dons Solidaires :&nbsp;<strong>
+              </strong>
+            <br/>
+          </h2>
+        </div>
+      </section>
+      <section class="s_text_block o_colored_level pt0 pb0 filg" data-snippet="s_text_block" style="background-image: none;" data-name="Liste avec bitoniau à gauche">
+        <div class="s_allow_columns bgblanc px-5 py-3 container">
+          <h3 style="text-align: left;">
+            <span style="font-size: 24px;">
+              <font class="text-o-color-1">
+                <strong class="o_default_snippet_text">Un interlocuteur unique et disponible</strong>
+              </font>
+            </span>
+            <br/>
+          </h3>
+          <p style="text-align: justify;">
+            <span style="font-size: 24px;">
+              <font class="text-o-color-5">Pour gérer l’ensemble vos propositions.</font>
+            </span>
+            <br/>
+          </p>
+        </div>
+      </section>
+      <section class="s_text_block o_colored_level pt0 pb0 filg" data-snippet="s_text_block" style="background-image: none;" data-name="Liste avec bitoniau à gauche">
+        <div class="s_allow_columns bgblanc px-5 py-3 container">
+          <h3 style="text-align: left;">
+            <span style="font-size: 24px;">
+              <font class="text-o-color-1">
+                <strong class="o_default_snippet_text">Une gestion de tout volume de don</strong>
+              </font>
+            </span>
+            <br/>
+          </h3>
+          <p style="text-align: justify;">
+            <span style="font-size: 24px;">
+              <font class="text-o-color-5">Des TPE-PME aux plus grandes entreprises, Dons Solidaires est en capacité de gérer des dons de quelques cartons à des dizaines, ou même centaines de palettes.</font>
+            </span>
+            <br/>
+          </p>
+        </div>
+      </section>
+      <section class="s_text_block o_colored_level pt0 pb0 filg" data-snippet="s_text_block" style="background-image: none;" data-name="Liste avec bitoniau à gauche">
+        <div class="s_allow_columns bgblanc px-5 py-3 container">
+          <h3 style="text-align: left;">
+            <span style="font-size: 24px;">
+              <font class="text-o-color-1">
+                <strong>Une gestion logistique fiable</strong>
+              </font>
+            </span>
+            <br/>
+          </h3>
+          <p style="text-align: justify;">
+            <span style="font-size: 24px;">
+              <font class="text-o-color-5">Grâce à notre partenaire GXO Logistics ainsi qu’à nos équipes dédiées, Dons Solidaires vous assure une qualité de service professionnelle.</font>
+            </span>
+            <br/>
+          </p>
+        </div>
+      </section>
+      <section class="s_text_block o_colored_level pt0 pb0 filg" data-snippet="s_text_block" style="background-image: none;" data-name="Liste avec bitoniau à gauche">
+        <div class="s_allow_columns bgblanc px-5 py-3 container">
+          <h3 style="text-align: left;">
+            <span style="font-size: 24px;">
+              <font class="text-o-color-1">
+                <strong>Une traçabilité des produits assurée</strong>
+              </font>
+            </span>
+            <br/>
+          </h3>
+          <p style="text-align: justify;">
+            <span style="font-size: 24px;">
+              <font class="text-o-color-5 o_default_snippet_text">Grâce à ses outils digitaux et notamment son ERP, Dons Solidaires garantit le suivi de vos dons vers les associations partenaires​</font>
+            </span>
+            <br/>
+          </p>
+        </div>
+      </section>
+      <section class="s_text_block o_colored_level pt0 pb0 filg" data-snippet="s_text_block" style="background-image: none;" data-name="Liste avec bitoniau à gauche">
+        <div class="s_allow_columns bgblanc px-5 py-3 container">
+          <h3 style="text-align: left;">
+            <span style="font-size: 24px;">
+              <font class="text-o-color-1">
+                <strong>Un réseau d’associations de confiance</strong>
+              </font>
+            </span>
+            <br/>
+          </h3>
+          <p style="text-align: justify;">
+            <span style="font-size: 24px;">
+              <font class="text-o-color-5">Dons Solidaires vérifie et valide l’adhésion de chaque association partenaire pour s’assurer que les produits sont distribués dans les bonnes conditions à un public en situation de précarité. </font>
+            </span>
+            <br/>
+          </p>
+        </div>
+      </section>
+      <section class="s_text_block o_colored_level pt0 pb0 filg" data-snippet="s_text_block" style="background-image: none;" data-name="Liste avec bitoniau à gauche">
+        <div class="s_allow_columns bgblanc px-5 py-3 container">
+          <h3 style="text-align: left;">
+            <span style="font-size: 24px;">
+              <font class="text-o-color-1">
+                <strong>Une réduction d’impôt</strong>
+              </font>
+            </span>
+            <br/>
+          </h3>
+          <p style="text-align: justify;">
+            <span style="font-size: 24px;">
+              <font class="text-o-color-5">À hauteur de 60% du coût de revient des dons, quel que soit leur montant, Dons Solidaires étant un organisme sans but lucratif qui procède à la fourniture de produits à des personnes en difficulté.&nbsp;</font>
+            </span>
+            <br/>
+          </p>
+        </div>
+      </section>
+      <section class="s_text_block o_colored_level pt0 pb0 filg" data-snippet="s_text_block" style="background-image: none;" data-name="Liste avec bitoniau à gauche">
+        <div class="s_allow_columns bgblanc px-5 py-3 container">
+          <h3 style="text-align: left;">
+            <span style="font-size: 24px;">
+              <font class="text-o-color-1">
+                <strong>Une exemption de régularisation de la TVA</strong>
+              </font>
+            </span>
+            <br/>
+          </h3>
+          <p style="text-align: justify;">
+            <span style="font-size: 24px;">
+              <font class="text-o-color-5">Sur les produits donnés : Dons Solidaires étant une association Reconnue d’Utilité Publique, vous êtes exonérés du reversement de la TVA sur les produits donnés. </font>
+            </span>
+            <br/>
+          </p>
+        </div>
+      </section>
+      <section class="s_text_block o_colored_level pt0 pb0 filg" data-snippet="s_text_block" style="background-image: none;" data-name="Liste avec bitoniau à gauche">
+        <div class="s_allow_columns bgblanc px-5 py-3 container">
+          <h3 style="text-align: left;">
+            <span style="font-size: 24px;">
+              <font class="text-o-color-1">
+                <strong>Un bilan de l’impact social</strong>
+              </font>
+            </span>
+            <br/>
+          </h3>
+          <p style="text-align: justify;">
+            <span style="font-size: 24px;">
+              <font class="text-o-color-5">De vos dons vous est fourni pour valoriser votre action.</font>
+            </span>
+            <br/>
+          </p>
+        </div>
+      </section>
+      <section id="s_vf6k0ln4" class="py-4 o_colored_level pt0 pb0" data-snippet="s_custom_tips" style="background-image: none;" data-name="Tips">
+        <div class="justify-content-center bgblanc px-5 py-2 container">
+          <div class="grid_container">
+            <div class="custom_card p-4">
+              <div class="img_presentation">
+                <p>
+                  <img src="web/image/237930-6e3646d1/icone-ampoule.png" alt="" loading="lazy" data-original-id="237726" data-original-src="/web/image/237726-375f2ac8/icone-ampoule.png" data-mimetype="image/png" data-resize-width="150"/>
+                </p>
+              </div>
+              <div class="title">
+                <h2 style="text-align: left;">
+            Bon à savoir
+          </h2>
+              </div>
+              <div class="presentation py-0">
+                <p>
+                  Après avoir reçu votre&nbsp;fichier de proposition de don, les équipes de Dons Solidaires <strong>analysent la liste </strong>des produits proposés. En fonction de leur nature et des volumes, <strong>les dons seront orientés vers le circuit “
+                  </strong><span data-original-title="" title="" aria-describedby="tooltip588204"><strong>entrepôt</strong></span><strong>
+                  ” ou vers le circuit “direct”. </strong>Un<strong> interlocuteur dédié </strong>vous guidera tout au long du processus pour vous indiquer <strong>les étapes à suivre</strong> et vous <strong>informer </strong>sur le devenir de votre don.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section id="s_cv23g8q9" class="py-4 o_colored_level pt0 pb0" data-snippet="s_custom_citations" style="background-image: none;" data-name="Citation">
+        <div class="container justify-content-center bgblanc px-5 py-2">
+          <div class="custom_card p-2 my-4">
+            <div class="img">
+              <p>
+                <img src="web/image/237929-ca67dac8/citation.png" alt="" loading="lazy" data-original-id="237729" data-original-src="/web/image/237729-ca67dac8/citation.png" data-mimetype="image/png" data-resize-width="120"/>
+              </p>
+            </div>
+            <div class="citation">
+              <p data-original-title="" title="" aria-describedby="tooltip702220">
+          «&nbsp;Le partenariat avec Dons Solidaires nous a poussé à structurer nos process de don en interne. Nos modalités de fonctionnement se sont révélées compatibles : en effet, l’association est à même de gérer nos différents types de dons composés de multitudes de références en quantité variable, là où d’autres partenaires ne gèrent que de grandes quantités. On a également été rassurés sur les aspects de traçabilité et la garantie que nos produits viennent en aide aux personnes en difficulté. »
+        </p>
+            </div>
+            <div class="auteur py-0">
+              <p>
+                <font class="text-o-color-2">Clotilde Chambon, Directrice RSE des Laboratoires SVR.&nbsp;&nbsp;<strong>&nbsp;</strong></font>
+                <br/>
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_text_block o_colored_level pt0 pb0" data-snippet="s_text_block" style="background-image: none;" data-name="Texte fond blanc">
+        <div class="s_allow_columns bgblanc px-5 pt-3 pb-0 container">
+          <p style="text-align: justify;" data-original-title="" title="" aria-describedby="tooltip786276">
+            Vous souhaitez en savoir plus ? <a href="contact-entreprise" data-original-title="" title="">N'hésitez pas à nous contacter</a>
+            <font class="text-o-color-5"></font>
+          </p>
+        </div>
+      </section>
+      <section class="s_text_block o_colored_level pt0 pb0" data-snippet="s_text_block" style="background-image: none;" data-name="Texte fond blanc">
+        <div class="s_allow_columns bgblanc px-5 py-3 container">
+          <div class="s_hr text-left pt0 pb0" data-snippet="s_hr" data-name="Separator">
+            <hr class="w-100 mx-auto" style="border-top-style: solid; border-top-width: 0px !important;"/>
+          </div>
+          <h2 style="text-align: justify;">
+                  Une solution logistique simple et fiable pour un don dédié aux personnes en difficulté&nbsp;<strong>
+                </strong>
+              <strong><font class="text-o-color-5"></font></strong>
+            <font class="text-o-color-5">
+            </font>
+            <br/>
+          </h2>
+        </div>
+      </section>
+      <section id="s_cl97m11n" data-snippet="s_custom_5columns_list" class="o_colored_level icones" style="background-image: none;" data-name="5 Colonnes schéma 1">
+        <div class="bgblanc px-5 py-3 container">
+          <div class="grid_container_5">
+            <div class="columns_item">
+              <img src="web/image/237948-952ec7cb/icons8-in-transit-100%20(1).png" alt="" loading="lazy" data-original-id="237936" data-original-src="/web/image/237936-bcb9b2a2/icons8-in-transit-100%20%281%29.png" data-mimetype="image/png" data-resize-width="100"/>
+              <div>
+                <p>
+                  <strong>
+                    <font class="text-o-color-1">
+                      <span style="font-size: 18px;">Réception</span>
+                    </font>
+                  </strong>
+                  <span style="font-size: 18px;"> du don de produit dans notre entrepôt </span>
+                  <br/>
+                </p>
+              </div>
+            </div>
+            <div class="columns_item">
+              <img src="web/image/237949-27d93890/icons8-warehouse-100.png" alt="" loading="lazy" data-original-id="237937" data-original-src="/web/image/237937-7d8b727f/icons8-warehouse-100.png" data-mimetype="image/png" data-resize-width="100"/>
+              <div>
+                <p>
+                  <strong>
+                    <font class="text-o-color-1">
+                      <span style="font-size: 18px;">Gestion logistique</span>
+                    </font>
+                  </strong>
+                  <span style="font-size: 18px;"> de vos dons (inventaire, conditionnement, stockage...) </span>
+                  <br/>
+                </p>
+              </div>
+            </div>
+            <div class="columns_item">
+              <img src="web/image/237947-6294e986/icons8-woman-at-computer-100.png" alt="" loading="lazy" data-original-id="237938" data-original-src="/web/image/237938-1205e01e/icons8-woman-at-computer-100.png" data-mimetype="image/png" data-resize-width="100"/>
+              <div>
+                <p>
+                  <strong>
+                    <font class="text-o-color-1">
+                      <span style="font-size: 18px;">Mise en ligne</span>
+                    </font>
+                  </strong>
+                  <span style="font-size: 18px;"> des produits sur le catalogue Dons Solidaires    </span>
+                  <br/>
+                </p>
+              </div>
+            </div>
+            <div class="columns_item">
+              <img src="web/image/237946-f8afb2dd/icons8-sell-100.png" alt="" loading="lazy" data-original-title="" title="" aria-describedby="tooltip169655" data-original-id="237944" data-original-src="/web/image/237944-e8a85c6c/icons8-sell-100.png" data-mimetype="image/png" data-resize-width="100"/>
+              <div>
+                <p>
+                  <strong>
+                    <font class="text-o-color-1">
+                      <span style="font-size: 18px;">Répartition</span>
+                    </font>
+                  </strong>
+                  <span style="font-size: 18px;"> des dons aux&nbsp;associations partout en France</span>
+                  <br/>
+                </p>
+              </div>
+            </div>
+            <div class="columns_item">
+              <img src="web/image/237950-b61ecaaa/icons8-conference-100.png" alt="" loading="lazy" data-original-title="" title="" aria-describedby="tooltip927410" data-original-id="237945" data-original-src="/web/image/237945-225ae0ba/icons8-conference-100.png" data-mimetype="image/png" data-resize-width="100"/>
+              <div>
+                <p>
+                  <strong>
+                    <font class="text-o-color-1">
+                      <span style="font-size: 18px;">1,1 Million de personnes</span>
+                    </font>
+                  </strong>
+                  <span style="font-size: 18px;"> en précarité aidées</span>
+                  <br/>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_text_block o_colored_level pt0 pb0" data-snippet="s_text_block" style="background-image: none;" data-name="Texte fond blanc" data-original-title="" title="" aria-describedby="tooltip672086">
+        <div class="s_allow_columns bgblanc px-5 py-3 container" data-original-title="" title="" aria-describedby="tooltip800771">
+          <p style="text-align: justify;" data-original-title="" title="" aria-describedby="tooltip375390">
+                De la recherche de bénéficiaires à la gestion logistique, 
+                <strong>l’ensemble du processus est assuré par nos équipes, afin de simplifier au maximum votre démarche de don </strong>(acheminement de vos produits, conditionnement et répartition des dons aux associations...).&nbsp;&nbsp;
+                &nbsp;<font class="text-o-color-5">
+              </font>
+          </p>
+          <p>
+              Les produits que nous collectons sont transportés jusqu’à notre entrepôt, en région parisienne ou orientés directement vers une association à proximité de vos entrepôts, quand cela est possible.<strong> Lorsque vos dons arrivent à notre entrepôt, ils y sont stockés, inventoriés et reconditionnés
+            si besoin, avant d’être proposés sur un catalogue en ligne puis distribués aux structures de solidarité partenaires.&nbsp;&nbsp;</strong><font class="text-o-color-5">
+            </font>
+          </p>
+          <p><strong>Dons Solidaires travaille avec un réseau d’associations qui accompagnent des personnes en situation de précarité partout en France </strong>: nous avons à cœur de redistribuer les produits de manière ciblée, en fonction des besoins spécifiques de nos associations partenaires. Par ailleurs, nous travaillons avec 
+              un réseau d’associations connu et agréé qui nous permet <strong>d’assurer la traçabilité des produits, un sujet essentiel pour les entreprises.&nbsp;&nbsp;</strong><font class="text-o-color-5">
+            </font>
+          </p>
+          <p style="text-align: justify;">
+                Avec ce processus simplifié de don de produits,<strong data-original-title="" title="" aria-describedby="tooltip149209"> vous avez ainsi la garantie de pouvoir optimiser la gestion de vos invendus de façon fiable et efficace, dans le respect de la législation, et de participer en même temps à la lutte contre l’exclusion sociale.&nbsp;&nbsp;</strong>
+              <font class="text-o-color-5">  </font>&nbsp;
+            <br/>
+          </p>
+        </div>
+      </section>
+      <section class="s_text_block o_colored_level pt0 pb0" data-snippet="s_text_block" style="background-image: none;" data-name="CTA long bleu" data-original-title="" title="" aria-describedby="tooltip363735">
+        <div class="s_allow_columns bgblanc px-5 py-3 container" data-original-title="" title="" aria-describedby="tooltip186363">
+          <p style="text-align: justify;">
+            <font class="text-o-color-5">
+              <span style="font-size: 24px;">
+                <a href="quels-produits-donner" class="btn btn-primary" data-original-title="" title="" style="width:100%;">
+                  <span style="font-size: 18px;" data-original-title="" title="" aria-describedby="tooltip311993" class="o_default_snippet_text">Découvrez quels produits donner </span>
+                </a>
+              </span>
+            </font>
+            <br/>
+          </p>
+        </div>
+      </section>
+      <section class="s_text_block o_colored_level pt0 pb0" data-snippet="s_text_block" style="background-image: none;" data-name="Titre de section">
+        <div class="s_allow_columns bgblanc px-5 py-3 container" style="text-align: center;">
+          <h3>
+            <span style="font-size: 24px">
+              <strong style="font-weight: bolder">L’impact social de votre don d’après nos associations partenaires :&nbsp;</strong>
+            </span>
+          </h3>
+        </div>
+      </section>
+      <section class="s_numbers s_text_block o_colored_level pt0 pb0" data-snippet="s_numbers" style="background-image: none;" data-name="3 chiffres - nouveau">
+        <div class="s_allow_columns px-5 py-3 container" style="
+    background-color: #FFF;
+">
+          <div class="row">
+            <div class="text-center o_colored_level col-lg-4 pt0 pb0">
+              <p>
+                <span class="s_number display-4" style="font-weight:bold;">
+                  <font class="text-o-color-1">
+                    <span style="font-size: 48px;">54%</span>
+                  </font>
+                </span>
+                <br/>
+              </p>
+              <p>des associations trouvent<strong> difficile ou très difficile de se procurer des produits de première nécessité</strong> neufs non-alimentaires*</p>
+            </div>
+            <div class="text-center o_colored_level col-lg-4 pt0 pb0">
+              <p>
+                <span class="s_number display-4" style="font-weight:bold;">
+                  <font class="text-o-color-1">
+                    <span style="font-size: 48px;" class="o_default_snippet_text">95%</span>
+                  </font>
+                </span>
+                <br/>
+              </p>
+              <p>des associations estiment que&nbsp;<br/><strong>Dons Solidaires</strong> permet à leurs bénéficiaires d’avoir <strong>une vie plus digne*&nbsp;&nbsp;</strong></p>
+            </div>
+            <div class="text-center o_colored_level col-lg-4 pt0 pb0">
+              <p>
+                <span class="s_number display-4" style="font-weight:bold;">
+                  <font class="text-o-color-1">
+                    <span style="font-size: 48px;">94%</span>
+                  </font>
+                </span>
+              </p>
+              <p>pensent que <strong>Dons Solidaires</strong> leur permet de <strong>distribuer des produits qu’elles ne pourraient pas se procurer autrement*</strong></p>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_text_block o_colored_level pt0 pb0" data-snippet="s_text_block" style="background-image: none;" data-name="Paragraphe">
+        <div class="s_allow_columns bgblanc px-5 py-3 container">
+          <h6>
+            <em>
+              <a href="etude-d-impact-social-dons-solidaires-2022" target="_blank">*selon les répondants de l'étude d’impact social réalisée par Dons Solidaires en 2022</a>
+            </em>
+            <br/>
+          </h6>
+          <p style="text-align: justify;">
+</p>
+        </div>
+      </section>
+      <section class="s_text_block o_colored_level pt0 pb0 formulaire-ds" data-snippet="s_text_block" style="background-image: none;" data-name="Formulaire Entreprise">
+        <div class="s_allow_columns bglightblue px-5 py-3 container">
+          <section class="s_website_form pt16 pb16" data-vcss="001" data-snippet="s_website_form" data-name="Form" data-original-title="" title="" aria-describedby="tooltip866375">
+            <div class="container">
+              <h2 class="formulaire-ds-titre o_default_snippet_text" data-original-title="" title="" aria-describedby="tooltip476762">Une question ? Une proposition de don ?&nbsp;<br/>Contactez-nous !</h2>
+              <form action="https://www.donsolidaires.fr/website/form/" method="post" enctype="multipart/form-data" class="o_mark_required" data-mark="*" data-pre-fill="true" data-success-mode="redirect" data-success-page="/formulaire-contact-entreprise-merci" data-model_name="crm.lead">
+                <div class="s_website_form_rows row s_col_no_bgcolor">
+                  <div data-visibility-condition="" data-visibility-between="" class="form-group s_website_form_field col-12 s_website_form_required" data-type="char" data-name="Field">
+                    <div class="row s_col_no_resize s_col_no_bgcolor">
+                      <label class="col-form-label col-sm-auto s_website_form_label" style="width: 200px" for="ordauamda2t7">
+                        <span class="s_website_form_label_content o_default_snippet_text">Nom et Prénom</span>
+                        <span class="s_website_form_mark o_default_snippet_text"> *</span>
+                      </label>
+                      <div class="col-sm">
+                        <input type="text" class="form-control s_website_form_input" name="contact_name" required="1" placeholder="" id="ordauamda2t7" data-fill-with="name"/>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="form-group s_website_form_field col-12 s_website_form_model_required" data-type="char" data-name="Field" data-visibility-condition="" data-visibility-between="">
+                    <div class="row s_col_no_resize s_col_no_bgcolor">
+                      <label class="col-form-label col-sm-auto s_website_form_label " style="width: 200px" for="obog6k6nkduq">
+                        <span class="s_website_form_label_content o_default_snippet_text">Nom de votre entreprise</span>
+                        <span class="s_website_form_mark o_default_snippet_text"> *</span>
+                      </label>
+                      <div class="col-sm">
+                        <input type="text" class="form-control s_website_form_input" name="name" required="true" id="obog6k6nkduq"/>
+                      </div>
+                    </div>
+                  </div>
+                  <div data-visibility-condition="" data-visibility-between="" class="form-group s_website_form_field col-12 s_website_form_custom s_website_form_required" data-type="char" data-name="Field">
+                    <div class="row s_col_no_resize s_col_no_bgcolor">
+                      <label class="col-form-label col-sm-auto s_website_form_label " style="width: 200px" for="on0xbdm5ricn">
+                        <span class="s_website_form_label_content o_default_snippet_text">Code postal de votre entreprise</span>
+                        <span class="s_website_form_mark o_default_snippet_text">       *</span>
+                      </label>
+                      <div class="col-sm">
+                        <input type="text" class="form-control s_website_form_input" name="Code postal de votre entreprise" required="1" value="" placeholder="" id="on0xbdm5ricn" data-fill-with="undefined"/>
+                      </div>
+                    </div>
+                  </div>
+                  <div data-visibility-condition="" data-visibility-between="" class="form-group s_website_form_field col-12 s_website_form_required" data-type="char" data-name="Field">
+                    <div class="row s_col_no_resize s_col_no_bgcolor">
+                      <label class="col-form-label col-sm-auto s_website_form_label " style="width: 200px" for="oo4v26bjj7om">
+                        <span class="s_website_form_label_content o_default_snippet_text">Email</span>
+                        <span class="s_website_form_mark o_default_snippet_text"> *</span>
+                      </label>
+                      <div class="col-sm">
+                        <input type="text" class="form-control s_website_form_input" name="email_from" required="1" placeholder="" id="oo4v26bjj7om" data-fill-with="email"/>
+                      </div>
+                    </div>
+                  </div>
+                  <div data-visibility-condition="" data-visibility-between="" class="form-group s_website_form_field col-12 s_website_form_required" data-type="char" data-name="Field">
+                    <div class="row s_col_no_resize s_col_no_bgcolor">
+                      <label class="col-form-label col-sm-auto s_website_form_label " style="width: 200px" for="ohijn7bmuvsj">
+                        <span class="s_website_form_label_content o_default_snippet_text">Téléphone</span>
+                        <span class="s_website_form_mark o_default_snippet_text"> *</span>
+                      </label>
+                      <div class="col-sm">
+                        <input type="text" class="form-control s_website_form_input" name="phone" placeholder="" id="ohijn7bmuvsj" data-fill-with="phone" required=""/>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="form-group s_website_form_field col-12 s_website_form_required" data-type="text" data-name="Field" data-visibility-condition="" data-visibility-between="">
+                    <div class="row s_col_no_resize s_col_no_bgcolor">
+                      <label class="col-form-label col-sm-auto s_website_form_label " style="width: 200px" for="or9tvw9kvcx8">
+                        <span class="s_website_form_label_content o_default_snippet_text">Objet de la demande</span>
+                        <span class="s_website_form_mark o_default_snippet_text"> *</span>
+                      </label>
+                      <div class="col-sm">
+                        <textarea class="form-control s_website_form_input" name="description" required="1" id="or9tvw9kvcx8" rows="3"></textarea>
+                      </div>
+                    </div>
+                  </div>
+                  <div data-visibility-condition="" data-visibility-between="" class="form-group s_website_form_field col-12 s_website_form_custom s_website_form_required" data-type="one2many" data-name="Field">
+                    <div class="row s_col_no_resize s_col_no_bgcolor">
+                      <label class=" col-sm-auto s_website_form_label " style="width: 200px" for="o3iv5fplxfk">
+                        <span class="s_website_form_label_content o_default_snippet_text">Je souhaite faire</span>
+                        <span class="s_website_form_mark o_default_snippet_text">                *</span>
+                      </label>
+                      <div class="col-sm">
+                        <div class="row s_col_no_resize s_col_no_bgcolor s_website_form_multiple" data-name="Je souhaite faire" data-display="horizontal">
+                          <div class="checkbox col-12 col-lg-4 col-md-6">
+                            <div class="form-check">
+                              <input type="checkbox" class="s_website_form_input form-check-input" id="o3iv5fplxfk0" name="Je souhaite faire" value="Un don de produits non-alimentaires" required="1" data-fill-with="undefined"/>
+                              <label class="form-check-label s_website_form_check_label o_default_snippet_text" for="o3iv5fplxfk0">
+                    Un don de produits non-alimentaires
+                </label>
+                            </div>
+                          </div>
+                          <div class="checkbox col-12 col-lg-4 col-md-6">
+                            <div class="form-check">
+                              <input type="checkbox" class="s_website_form_input form-check-input" id="o3iv5fplxfk1" name="Je souhaite faire" value="Un don financier" required="1"/>
+                              <label class="form-check-label s_website_form_check_label o_default_snippet_text" for="o3iv5fplxfk1">
+                    Un don financier
+                </label>
+                            </div>
+                          </div>
+                          <div class="checkbox col-12 col-lg-4 col-md-6">
+                            <div class="form-check">
+                              <input type="checkbox" class="s_website_form_input form-check-input" id="o3iv5fplxfk2" name="Je souhaite faire" value="Autre demande" required="1"/>
+                              <label class="form-check-label s_website_form_check_label o_default_snippet_text" for="o3iv5fplxfk2">
+                    Autre demande
+                </label>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div data-visibility-between="" data-visibility-dependency="Je souhaite faire" data-visibility-condition="Un don de produits non-alimentaires" data-visibility-comparator="selected" class="form-group s_website_form_field col-12 s_website_form_required s_website_form_field_hidden_if d-none" data-type="char" data-name="Field">
+                    <div class="row s_col_no_resize s_col_no_bgcolor">
+                      <label class="col-form-label col-sm-auto s_website_form_label " style="width: 200px" for="os2r1mdcme1">
+                        <span class="s_website_form_label_content o_default_snippet_text">Quel type de produits ?</span>
+                        <span class="s_website_form_mark o_default_snippet_text">     *</span>
+                      </label>
+                      <div class="col-sm">
+                        <input type="text" class="form-control s_website_form_input" name="partner_name" required="1" placeholder="" id="os2r1mdcme1" data-fill-with="commercial_company_name"/>
+                      </div>
+                    </div>
+                  </div>
+                  <div data-visibility-between="" data-visibility-dependency="Je souhaite faire" data-visibility-condition="Un don de produits non-alimentaires" data-visibility-comparator="selected" class="form-group s_website_form_field col-12 s_website_form_custom s_website_form_field_hidden_if d-none" data-type="char" data-name="Field">
+                    <div class="row s_col_no_resize s_col_no_bgcolor">
+                      <label class="col-form-label col-sm-auto s_website_form_label " style="width: 200px" for="o7es1x45prk">
+                        <span class="s_website_form_label_content o_default_snippet_text">Où est situé votre entrepôt ?</span>
+                      </label>
+                      <div class="col-sm">
+                        <input type="text" class="form-control s_website_form_input" name="Où est situé votre entrepôt ?" value="" placeholder="" id="o7es1x45prk" data-fill-with="undefined"/>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="form-group s_website_form_field col-12    s_website_form_dnone" data-name="Field">
+                    <div class="row s_col_no_resize s_col_no_bgcolor">
+                      <label class="col-form-label col-sm-auto s_website_form_label " style="width: 200px">
+                        <span class="s_website_form_label_content"></span>
+                      </label>
+                      <div class="col-sm">
+                        <input type="hidden" class="form-control s_website_form_input" name="team_id" value="6"/>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="form-group col-12 s_website_form_submit" data-name="Submit Button" data-original-title="" title="" aria-describedby="tooltip84156">
+                    <div style="width: 200px;" class="s_website_form_label"></div>
+                    <a href="#" role="button" class="btn btn-primary btn-lg s_website_form_send" data-original-title="" title="" aria-describedby="popover976417">
+                      Soumettre
+                    </a>
+                    <span id="s_website_form_result"></span>
+                  </div>
+                </div>
+              </form>
+            </div>
+          </section>
+        </div>
+      </section>
+    </div>
+                </main>
+                <footer id="bottom" data-anchor="true" data-name="Footer" class="o_footer o_colored_level o_cc ">
+                    <div id="footer" class="oe_structure oe_structure_solo" style="">
+      <section id="custom_section_donation" style="background-image: none;">
+        <div class="container">
+          <div class="custom_grid">
+            <div class="custom_helper">Aider Dons Solidaires</div>
+            <h2 class="title">
+            Vos dons financiers nous aident à agir contre la précarité&nbsp;!          </h2>
+            <div class="action_container">
+              <a href="faire-un-don" data-original-title="" title="">Faire un don</a>
+            </div>
+          </div>
+        </div>
+      </section>
+      <div id="footer" class="oe_structure oe_structure_solo" style="background-image: none;">
+        <section class="s_text_block pt40 pb16" data-snippet="s_text_block" data-name="Text" data-original-title="" title="" aria-describedby="tooltip395507" style="background-image: none;">
+          <div class="container">
+            <div class="row">
+              <div class="pt24 pb24 o_colored_level col-lg-3" data-original-title="" title="" aria-describedby="tooltip810064">
+                <h5 class="mb-3">Liens utiles</h5>
+                <ul class="list-unstyled" data-original-title="" title="" aria-describedby="tooltip837576">
+                  <li data-original-title="" title="" aria-describedby="tooltip760400">
+                    <a href="index.html" data-original-title="" title="">
+                      <font class="text-o-color-1">Accueil</font>
+                    </a>
+                  </li>
+                  <li data-original-title="" title="" aria-describedby="tooltip40962">
+                    <font class="text-o-color-1" data-original-title="" title="" aria-describedby="tooltip681408">
+                      <a href="qui-sommes-nous">Qui sommes-nous ?</a>
+                    </font>
+                  </li>
+                  <li data-original-title="" title="" aria-describedby="tooltip40962">
+                    <font class="text-o-color-1" data-original-title="" title="" aria-describedby="tooltip83850">
+                      <a href="faq-entreprise" data-original-title="" title="">FAQ Entreprises</a>
+                    </font>
+                  </li>
+                  <li data-original-title="" title="" aria-describedby="tooltip40962">
+                    <font class="text-o-color-1" data-original-title="" title="" aria-describedby="tooltip727139">
+                      <a href="faq-association">FAQ Associations</a>
+                    </font>
+                  </li>
+                  <li data-original-title="" title="" aria-describedby="tooltip40962">
+                    <font class="text-o-color-1" data-original-title="" title="" aria-describedby="tooltip212863">
+                      <a href="nous-rejoindre">Nous rejoindre</a>
+                    </font>
+                  </li>
+                  <li data-original-title="" title="" aria-describedby="tooltip40962">
+                    <font class="text-o-color-1">
+                      <a href="mentions-legales">Mentions légales</a>
+                    </font>
+                  </li>
+                  <li data-original-title="" title="" aria-describedby="tooltip40962">
+                    <font class="text-o-color-1">
+                      <a href="politique-de-confidentialite" data-original-title="" title="">Politique de confidentialité</a>
+                    </font>
+                  </li>
+                  <li data-original-title="" title="" aria-describedby="tooltip40962">
+                    <font class="text-o-color-1">
+                      <a href="espace-presse">Espace presse</a>
+                    </font>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-5 pt24 pb24 o_colored_level" data-original-title="" title="" aria-describedby="tooltip957580">
+                <h5 class="mb-3" data-original-title="" title="" aria-describedby="tooltip206528">À propos</h5>
+                <p>
+               &nbsp;Depuis 2004, Dons Solidaires lutte contre le gaspillage et l'exclusion sociale en collectant des produits neufs non-alimentaires auprès des entreprises et en les redistribuant à des associations partout en France pour en faire bénéficier des personnes en difficulté.
+</p>
+              </div>
+              <div id="connect" class="pt24 pb24 o_colored_level col-lg-4" data-original-title="" title="" aria-describedby="tooltip955544">
+                <h5 class="mb-3">Coordonnées</h5>
+                <ul class="list-unstyled">
+                  <li data-original-title="" title="" aria-describedby="tooltip460625"><i class="fa fa-envelope fa-fw mr-2"></i>
+                    &nbsp;<a href="mailto:contact@donsolidaires.fr" data-original-title="" title="">Nous contacter</a>&nbsp;
+                  </li>
+                  <li data-original-title="" title="" aria-describedby="tooltip444206">
+                    <i class="fa fa-phone fa-fw mr-2"></i>
+                    <span class="o_force_ltr">
+                      <font class="text-o-color-3" data-original-title="" title="" aria-describedby="tooltip991095"></font>
+                      <a href="tel:+33139168697" data-original-title="" title="">
+                        <font class="text-o-color-3" data-original-title="" title="" aria-describedby="tooltip991095">01 39 16 86 97</font>
+                      </a>
+                      <font class="text-o-color-3" data-original-title="" title="" aria-describedby="tooltip387640"></font>
+                    </span>
+                  </li>
+                  <p data-original-title="" title="" aria-describedby="tooltip968903">
+                    <a href="contact" data-original-title="" title="">Nos formulaires de contact</a>
+                  </p>
+                  <p data-original-title="" title="" aria-describedby="tooltip968903">&nbsp;<br/>
+                  </p>
+                  <p data-original-title="" title="" aria-describedby="tooltip759933" style="text-align: left;">
+                    <a href="https://ds-solidaires.odoo.com/my" target="_blank" data-original-title="" title="" class="btn btn-secondary">Se connecter au catalogue</a>
+                  </p>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+      <section id="custom_section_social" style="background-image: none;">
+        <div class="container">
+          <div class="custom_grid">
+            <div class="custom_social_media">
+              <div class="s_share text-left" data-snippet="s_share" data-name="Social Media" data-original-title="" title="" aria-describedby="tooltip14557">
+                <a href="https://www.facebook.com/donssolidaires" class="s_share_facebook" target="_blank" data-original-title="" title="">
+                  <h5 class="s_share_title d-none">Suivez-nous</h5>
+                  <i class="fa fa-facebook rounded-circle shadow-sm" data-original-title="" title="" aria-describedby="tooltip277724"></i>
+                </a>
+                <a href="https://twitter.com/DonsSolidaires" class="s_share_twitter" target="_blank" data-original-title="" title="">
+                  <i class="fa fa-twitter rounded-circle shadow-sm" data-original-title="" title="" aria-describedby="tooltip250415"></i>
+                </a>
+                <a href="https://www.linkedin.com/company/dons-solidaires/?trk=biz-companies-cym" class="s_share_linkedin" target="_blank" data-original-title="" title="">
+                  <i class="fa fa-linkedin rounded-circle shadow-sm" data-original-title="" title="" aria-describedby="tooltip166408"></i>
+                </a>
+                <a href="https://www.instagram.com/donsolidaires/" class="text-800 float-right" data-original-title="" title="" target="_blank">
+                  <i class="fa rounded-circle shadow-sm fa-instagram" data-original-title="" title="" aria-describedby="tooltip641475"></i>
+                </a>
+              </div>
+            </div>
+            <div class="custom_newsletter">
+              <label>
+                <br/>
+              </label>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+  <div class="o_footer_copyright o_colored_level o_cc" data-name="Copyright">
+                        <div class="container py-3">
+                            <div class="row">
+                                <div class="col-sm text-center text-sm-left text-muted">
+                                    <span class="o_footer_copyright_name mr-2"><span style="color: rgba(255, 255, 255, 0.7); font-size: 18px; background-color: inherit;" data-original-title="" title="" aria-describedby="tooltip237116">Fait avec ♥️ par&nbsp;</span><a href="https://lapierrequimousse.com/" target="_blank">La Pierre qui Mousse<br/></a>Copyright © Dons Solidaires</span>
+                                </div>
+                                <div class="col-sm text-center text-sm-right o_not_editable">
+        <div class="o_brand_promotion">
+        Créé avec 
+            <a target="_blank" class="badge badge-light" href="http://www.odoo.com/?utm_source=db&amp;utm_medium=website">
+                <img alt="Odoo" src="web/static/img/odoo_logo_tiny.png" style="height: 1em; vertical-align: baseline;" loading="lazy"/>
+            </a>
+        - 
+                    Le #1 <a target="_blank" href="http://www.odoo.com/app/ecommerce?utm_source=db&amp;utm_medium=website">Open Source eCommerce</a>
+        </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </footer>
+            </div>
+        <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WHVKFV3"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<script>
+checkShopSection()
+function hideMenuElement(){
+    let menuElement = document.getElementById('top_menu')
+    let children = menuElement.childNodes
+    let length = children.length
+    let lastChildren = [
+        document.querySelector(".o_wsale_my_cart"),
+        document.querySelector("#top_menu li.o_no_autohide_item")
+        //children[length -1]
+    ]
+    while (menuElement.lastElementChild) {
+        menuElement.removeChild(menuElement.lastElementChild);
+    }
+    return lastChildren
+}
+function generateMenuItems(link, name, submenu){
+    let container = document.createElement('li');
+    container.classList.add('nav-item')
+    if(!submenu){
+        let linkElement = document.createElement('a')
+        linkElement.classList.add("nav-link")
+        linkElement.role = "menuitem"
+        linkElement.href = link
+        let spanElement = document.createElement("span")
+        spanElement.dataset.OeModel = "website.menu"
+        spanElement.dataset.OeId = "101"
+        spanElement.dataset.OeField = "name"
+        spanElement.dataset.OeType = "char"
+        spanElement.dataset.OeExpression = "submenu.name"
+        spanElement.innerText = name
+        linkElement.appendChild(spanElement)
+        container.appendChild(linkElement)
+    } else {
+        container.classList.add("drowpdown")
+        container.style.position = "relative"
+        let linkElement = document.createElement('a')
+        linkElement.dataset.toggle="dropdown"
+        linkElement.href = "#"
+        linkElement.classList.add("nav-link","dropdown-toggle")
+        linkElement.ariaExpended=false
+        let spanElement = document.createElement("span")
+        spanElement.dataset.oeModel = "website.menu"
+        spanElement.dataset.oeId = "1010"
+        spanElement.dataset.oeField = "name"
+        spanElement.dataset.oeType = "char"
+        spanElement.dataset.oeExpression = "submenu.name"
+        spanElement.dataset.oeXpath = "/t[1]/li[2]/a[1]/span[1]"
+        spanElement.innerText = name
+        let sdSpanElement = document.createElement("span")
+        sdSpanElement.classList.add("o_ripple_item")
+        sdSpanElement.style.animationDuration= "350ms"
+        sdSpanElement.style.width = "151.781px"
+        sdSpanElement.style.height = "151.781px"
+        sdSpanElement.style.top = "-59.0155px"
+        sdSpanElement.style.left = "65.8126px"
+        let ulElement = generateSubMenuItems()
+        linkElement.appendChild(spanElement)
+        linkElement.appendChild(sdSpanElement)
+        container.appendChild(linkElement)
+        container.appendChild(ulElement)
+    }
+    return container
+}
+function generateSubMenuItems(){
+    let items = [
+        {
+            name: "Noël pour tous",
+            slug: "noel-pour-tous-1"
+        },
+                {
+            name: "Fournitures scolaires",
+            slug: "fournitures-scolaires-106"
+        },
+                {
+            name: "Hygiène",
+            slug: "hygiene-128"
+        },
+                {
+            name: "Entretien",
+            slug: "entretien-24"
+        },
+    ]
+    let ulElement = document.createElement('ul')
+    ulElement.classList.add("dropdown-menu","dropdown-menu-left")
+    ulElement.role="menu"
+    items.forEach(item => {
+        ulElement.appendChild(createSubMenuItem(item.name, item.slug))
+    })
+    return ulElement
+}
+function createSubMenuItem(name, slug){
+        let liElement = document.createElement('li')
+        let aElement = document.createElement('a')
+        aElement.role="menuitem"
+        aElement.href= "/shop/category/" + slug
+        aElement.classList.add("dropdown-item")
+        let spanElement = document.createElement("span")
+        spanElement.dataset.oeModel = "website.menu"
+        spanElement.dataset.oeId = "101"
+        spanElement.dataset.oeField = "name"
+        spanElement.dataset.oeType = "char"
+        spanElement.dataset.oeExpression = "submenu.name"
+        spanElement.innerText = name
+        aElement.appendChild(spanElement)
+        liElement.appendChild(aElement)
+        return liElement
+}
+function replaceMenu(){
+    let lastChildren = hideMenuElement()
+    let items = [
+        {
+            link:"/shop",
+            name:"E-catalogue",
+            submenu: false
+        },
+        /*{
+            link:"/my",
+            name:"Mon compte",
+            submenu: false
+        },*/
+        {
+            link:"/contact-e-catalogue",
+            name:"Nous contacter",
+            submenu: false
+        }]
+    let menuElement = document.getElementById('top_menu')
+    menuElement.classList.add("menu-shop")
+    let elements = []
+    console.log(items)
+    items.forEach(item => {
+        elements.push(generateMenuItems(item.link, item.name, item.submenu))
+    })
+    elements.push(...lastChildren)
+    elements.forEach(element => {
+        menuElement.appendChild(element)
+    })
+    let cartElement = document.querySelector("#top_menu li.o_wsale_my_cart")
+    cartElement.parentElement.parentElement.appendChild(cartElement)
+    document.querySelector("#top_menu_container .logo").href = "shop"
+}
+function checkShopSection(){
+    let endpoints = [
+        "/shop", "/my", "/contact-e-catalogue"
+    ]
+    let isShopSection = false
+    endpoints.forEach(endpoint => {
+        let url = window.location.host + endpoint
+        if(window.location.href.includes(url)){
+            replaceMenu()
+        }
+    })
+}
+let form = document.querySelector("form.o_wsale_products_searchbar_form")
+if(form){
+    form.parentElement.removeChild(form)
+}
+</script>
+    </body>
+        
+<!-- Mirrored from www.donsolidaires.fr/notre-expertise-et-nos-garanties by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 04 Mar 2024 09:02:35 GMT -->
+</html>

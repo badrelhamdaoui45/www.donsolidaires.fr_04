@@ -1,0 +1,343 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 04 Mar 2024 09:32:00 at https://www.donsolidaires.fr/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2t%Pns0u0%h%B%s%uN0%I0p7DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.donsolidaires.fr/ -O1 "C:\My Web Sites\https___www.donsolidaires.fr_04" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:32:03	Error: 	"Not Found" (404) at link https://fonts.gstatic.com/ (from https://www.donsolidaires.fr/)
+09:32:03	Warning: 	Retry after error -4 (Interrupted transfer) at link https://fonts.googleapis.com/ (from https://www.donsolidaires.fr/)
+09:32:03	Warning: 	Retry after error -4 (Interrupted transfer) at link https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&family=Poppins:wght@700&display=swap (from https://www.donsolidaires.fr/)
+09:32:13	Error: 	"FORBIDDEN" (403) at link https://www.donsolidaires.fr/shop/cart (from https://www.donsolidaires.fr/)
+09:32:15	Error: 	"NOT FOUND" (404) at link https://www.donsolidaires.fr/"/web/image/240800-39a8e7a6/accueil-site-dons-solidaires-2.jpg" (from https://www.donsolidaires.fr/)
+09:32:18	Error: 	Unable to save file C:/My Web Sites/https___www.donsolidaires.fr_04/www.donsolidaires.fr/blog: Permission denied
+09:32:24	Error: 	"NOT FOUND" (404) at link https://www.donsolidaires.fr/document/download/79/fef06fa6-106d-49da-88ff-d21725eafdc7/116 (from https://www.donsolidaires.fr/)
+09:32:32	Error: 	"FORBIDDEN" (403) at link https://www.donsolidaires.fr/shop (from https://www.donsolidaires.fr/)
+09:32:32	Error: 	Unable to save file C:/My Web Sites/https___www.donsolidaires.fr_04/www.donsolidaires.fr/shop: Permission denied
+09:32:32	Warning: 	Retry after error -4 (Interrupted transfer) at link https://fonts.googleapis.com/ (from https://www.donsolidaires.fr/)
+09:32:47	Warning: 	Retry after error -4 (Interrupted transfer) at link https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&family=Poppins:wght@700&display=swap (from https://www.donsolidaires.fr/)
+09:33:18	Warning: 	Moved Permanently for https://www.donsolidaires.fr/odd-dons-solidaires
+09:33:18	Warning: 	File has moved from https://www.donsolidaires.fr/odd-dons-solidaires to https://www.donsolidaires.fr/impact-social-environnemental-odd-dons-solidaires
+09:36:43	Warning: 	Retry after error -2 (Receive Time Out) at link https://www.donsolidaires.fr/document/download/39/04847738-dd2d-4da2-959e-c40fbc2fff34/63 (from https://www.donsolidaires.fr/nos-bilans-doperation)
+09:40:19	Warning: 	MOVED PERMANENTLY for https://www.donsolidaires.fr/blog/3/feed
+09:40:19	Warning: 	File has moved from https://www.donsolidaires.fr/blog/3/feed to https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/feed
+09:45:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/39/04847738-dd2d-4da2-959e-c40fbc2fff34/63
+09:45:49	Error: 	"NOT FOUND" (404) at link https://www.donsolidaires.fr/blog/"/web/image/290090-38899162/blurry-gradient-haikei 2.png" (from https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3)
+09:46:32	Error: 	"NOT FOUND" (404) at link https://www.donsolidaires.fr/"/web/image/290090-38899162/blurry-gradient-haikei 2.png" (from https://www.donsolidaires.fr/blog)
+09:46:36	Warning: 	Moved Permanently for https://www.donsolidaires.fr/ils-parlent-de-nous
+09:46:36	Warning: 	File has moved from https://www.donsolidaires.fr/ils-parlent-de-nous to https://www.donsolidaires.fr/dans-les-medias
+09:46:38	Error: 	"Receive Time Out" (-2) after 2 retries at link https://fonts.googleapis.com/ (from https://www.donsolidaires.fr/)
+09:46:42	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&family=Poppins:wght@700&display=swap (from https://www.donsolidaires.fr/)
+09:46:47	Error: 	"NOT FOUND" (404) at link https://www.donsolidaires.fr/document/share/55/1ba16906-b90f-4697-87b9-8678edc7c8d4 (from https://www.donsolidaires.fr/etude-2e-barometre-noel-dons-solidaires)
+09:46:47	Error: 	"NOT FOUND" (404) at link https://www.donsolidaires.fr/document/share/53/7b9c4894-702a-476b-9d58-65d26c7886c2 (from https://www.donsolidaires.fr/etude-2e-barometre-noel-dons-solidaires)
+09:46:50	Error: 	"NOT FOUND" (404) at link https://www.donsolidaires.fr/document/share/54/c8e1fe71-ae86-43b0-ab40-22c1f8bd1449 (from https://www.donsolidaires.fr/etude-2e-barometre-noel-dons-solidaires)
+09:47:22	Warning: 	Retry after error -2 (Receive Time Out) at link https://www.donsolidaires.fr/web/login?redirect=https://ds-solidaires.odoo.com/document/share/71/577b5884-376d-411c-be95-8fa5b7eadbc9 (from https://www.donsolidaires.fr/document/share/71/577b5884-376d-411c-be95-8fa5b7eadbc9)
+09:47:24	Warning: 	MOVED PERMANENTLY for https://www.donsolidaires.fr/blog/8/feed
+09:47:24	Warning: 	File has moved from https://www.donsolidaires.fr/blog/8/feed to https://www.donsolidaires.fr/blog/voyager-8/feed
+09:47:27	Error: 	"NOT FOUND" (404) at link https://www.donsolidaires.fr/blog/'/website_blog/static/src/img/cover_5.jpg' (from https://www.donsolidaires.fr/blog/voyager-8)
+09:47:30	Error: 	"NOT FOUND" (404) at link https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/"/web/image/290090-38899162/blurry-gradient-haikei 2.png" (from https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/barometre-2024-la-precarite-hygienique-atteint-des-niveaux-records-168)
+09:47:37	Error: 	"NOT FOUND" (404) at link https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/page/"/web/image/290090-38899162/blurry-gradient-haikei 2.png" (from https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/page/2)
+09:48:43	Error: 	"NOT FOUND" (404) at link https://www.donsolidaires.fr/blog/page/"/web/image/290090-38899162/blurry-gradient-haikei 2.png" (from https://www.donsolidaires.fr/blog/page/2)
+09:49:00	Error: 	"NOT FOUND" (404) at link https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/tag/"/web/image/290090-38899162/blurry-gradient-haikei 2.png" (from https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/tag/guerre-en-ukraine-5)
+09:49:00	Warning: 	MOVED PERMANENTLY for https://www.donsolidaires.fr/des-kits-hygiene-pour-lutter-contre-la-precarite/
+09:49:00	Warning: 	File has moved from https://www.donsolidaires.fr/des-kits-hygiene-pour-lutter-contre-la-precarite/ to https://www.donsolidaires.fr/des-kits-hygiene-pour-lutter-contre-la-precarite
+09:49:03	Warning: 	MOVED PERMANENTLY for https://www.donsolidaires.fr/8-mars-2022-dons-solidaires-soutient-les-droits-des-femmes/
+09:49:03	Warning: 	File has moved from https://www.donsolidaires.fr/8-mars-2022-dons-solidaires-soutient-les-droits-des-femmes/ to https://www.donsolidaires.fr/8-mars-2022-dons-solidaires-soutient-les-droits-des-femmes
+09:49:06	Warning: 	MOVED PERMANENTLY for https://www.donsolidaires.fr/entreprise-don-de-produits/entreprises-1-la-loi-agec-et-ses-implications/
+09:49:06	Warning: 	File has moved from https://www.donsolidaires.fr/entreprise-don-de-produits/entreprises-1-la-loi-agec-et-ses-implications/ to https://www.donsolidaires.fr/entreprise-don-de-produits/entreprises-1-la-loi-agec-et-ses-implications
+09:51:31	Warning: 	MOVED PERMANENTLY for https://www.donsolidaires.fr/les-achats-de-noel-la-precarite-sondage-ifop-pour-dons-solidaires/
+09:51:31	Warning: 	File has moved from https://www.donsolidaires.fr/les-achats-de-noel-la-precarite-sondage-ifop-pour-dons-solidaires/ to https://www.donsolidaires.fr/les-achats-de-noel-la-precarite-sondage-ifop-pour-dons-solidaires
+09:51:31	Warning: 	MOVED PERMANENTLY for https://www.donsolidaires.fr/entreprise-don-de-produits/mecenes/id-group/
+09:51:31	Warning: 	File has moved from https://www.donsolidaires.fr/entreprise-don-de-produits/mecenes/id-group/ to https://www.donsolidaires.fr/entreprise-don-de-produits/mecenes/id-group
+09:51:31	Warning: 	Retry after error -2 (Receive Time Out) at link https://www.donsolidaires.fr/document/download/81/e244884f-3559-4d44-b279-c41cb4e72248/121 (from https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/plan-francerelance-dons-solidaires-parmi-les-laureats-pour-son-action-de-lutte-contre-la-precarite-119)
+09:51:31	Warning: 	MOVED PERMANENTLY for https://www.donsolidaires.fr/loi-agec-et-gestion-des-invendus-non-alimentaires/
+09:51:31	Warning: 	File has moved from https://www.donsolidaires.fr/loi-agec-et-gestion-des-invendus-non-alimentaires/ to https://www.donsolidaires.fr/loi-agec-et-gestion-des-invendus-non-alimentaires
+09:51:34	Error: 	"NOT FOUND" (404) at link https://www.donsolidaires.fr/blog/tag/"/web/image/290090-38899162/blurry-gradient-haikei 2.png" (from https://www.donsolidaires.fr/blog/tag/guerre-en-ukraine-5)
+09:51:35	Warning: 	Moved Permanently for https://www.donsolidaires.fr/des-kits-hygiene-pour-lutter-contre-la-precarite
+09:51:35	Warning: 	File has moved from https://www.donsolidaires.fr/des-kits-hygiene-pour-lutter-contre-la-precarite to https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/des-kits-hygiene-pour-lutter-contre-la-precarite-52
+09:51:35	Error: 	Unable to save file C:/My Web Sites/https___www.donsolidaires.fr_04/www.donsolidaires.fr/des-kits-hygiene-pour-lutter-contre-la-precarite: Permission denied
+09:51:35	Warning: 	Moved Permanently for https://www.donsolidaires.fr/8-mars-2022-dons-solidaires-soutient-les-droits-des-femmes
+09:51:35	Warning: 	File has moved from https://www.donsolidaires.fr/8-mars-2022-dons-solidaires-soutient-les-droits-des-femmes to https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/8-mars-2022-legalite-aujourdhui-pour-un-avenir-durable-dons-solidaires-r-soutient-les-droits-des-femmes-134
+09:51:35	Error: 	Unable to save file C:/My Web Sites/https___www.donsolidaires.fr_04/www.donsolidaires.fr/8-mars-2022-dons-solidaires-soutient-les-droits-des-femmes: Permission denied
+09:51:35	Warning: 	Moved Permanently for https://www.donsolidaires.fr/entreprise-don-de-produits/entreprises-1-la-loi-agec-et-ses-implications
+09:51:35	Warning: 	File has moved from https://www.donsolidaires.fr/entreprise-don-de-produits/entreprises-1-la-loi-agec-et-ses-implications to https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/dons-solidaires-premier-bilan-a-loccasion-des-deux-ans-de-la-loi-agec-133
+09:51:35	Error: 	Unable to save file C:/My Web Sites/https___www.donsolidaires.fr_04/www.donsolidaires.fr/entreprise-don-de-produits/entreprises-1-la-loi-agec-et-ses-implications: Permission denied
+09:51:35	Warning: 	Moved Permanently for https://www.donsolidaires.fr/les-achats-de-noel-la-precarite-sondage-ifop-pour-dons-solidaires
+09:51:35	Warning: 	File has moved from https://www.donsolidaires.fr/les-achats-de-noel-la-precarite-sondage-ifop-pour-dons-solidaires to https://www.donsolidaires.fr/1er-barometre-noel-2020
+09:51:35	Error: 	Unable to save file C:/My Web Sites/https___www.donsolidaires.fr_04/www.donsolidaires.fr/les-achats-de-noel-la-precarite-sondage-ifop-pour-dons-solidaires: Permission denied
+09:51:35	Warning: 	Moved Permanently for https://www.donsolidaires.fr/entreprise-don-de-produits/mecenes/id-group
+09:51:35	Warning: 	File has moved from https://www.donsolidaires.fr/entreprise-don-de-produits/mecenes/id-group to https://www.donsolidaires.fr/ils-nous-font-confiance
+09:51:35	Error: 	Unable to save file C:/My Web Sites/https___www.donsolidaires.fr_04/www.donsolidaires.fr/entreprise-don-de-produits/mecenes/id-group: Permission denied
+09:51:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/81/e244884f-3559-4d44-b279-c41cb4e72248/121
+09:51:48	Warning: 	Moved Permanently for https://www.donsolidaires.fr/loi-agec-et-gestion-des-invendus-non-alimentaires
+09:51:48	Warning: 	File has moved from https://www.donsolidaires.fr/loi-agec-et-gestion-des-invendus-non-alimentaires to https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/dons-solidaires-premier-bilan-a-loccasion-des-deux-ans-de-la-loi-agec-133
+09:51:48	Error: 	Unable to save file C:/My Web Sites/https___www.donsolidaires.fr_04/www.donsolidaires.fr/loi-agec-et-gestion-des-invendus-non-alimentaires: Permission denied
+09:53:39	Warning: 	Retry after error -2 (Receive Time Out) at link https://www.donsolidaires.fr/web/login?redirect=https%3A%2F%2Fds-solidaires.odoo.com%2Fdocument%2Fshare%2F71%2F577b5884-376d-411c-be95-8fa5b7eadbc9 (from https://www.donsolidaires.fr/web/reset_password?redirect=https%3A%2F%2Fds-solidaires.odoo.com%2Fdocument%2Fshare%2F71%2F577b5884-376d-411c-be95-8fa5b7eadbc9)
+09:53:53	Warning: 	HTML file (991 bytes) retransferred due to lack of cache: https://fonts.googleapis.com/
+09:53:55	Warning: 	Retry after error -4 (Interrupted transfer) at link https://fonts.googleapis.com/ (from https://www.donsolidaires.fr/)
+09:53:56	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.donsolidaires.fr/)
+09:54:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/web/image/website/1/social_default_image?unique=285ca43
+09:54:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/qui-sommes-nous
+09:54:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/web/image/website/1/logo/Dons Solidaires - Donner%2C Distribuer%2C Partager?unique=6c2934b
+09:54:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/web/image/382381?unique=f4f6bc4ed1dd76d90603d5b41a31ad450b0bc4f4
+09:54:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/web/image/345717?unique=6a0267bbeaaf9ff5e91bbf916aa3194ea203f4fe
+09:55:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/hygiene-pour-tous
+09:55:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/web/image/382306?unique=495b331c8fd69c42947d907adf770deed9d3c690
+09:55:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/web/image/266114?unique=cef47784ac619f872160e160289e51663cb0b5d3
+09:55:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/web/image/287205?unique=4b2d2bbe75f7407686fcfbd5fbc63d8995270676
+09:55:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/77/6edd65b7-04f5-4a52-9cc0-896cdb99210e/113
+09:55:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/8/490c6b21-c9cf-4135-8dd2-52dd1b9240c2/70
+09:55:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/9/dd7a374e-600b-49ce-8ceb-74b403339ab6/73
+09:55:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/10/0c911baf-6873-41fd-b8de-adedf03adcad/77
+09:55:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/11/61035515-efac-4bba-9356-c85782405c87/80
+09:55:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/web/image/378702?unique=d8672d3f8adc32ed05b6808ffc5ebb4151987161
+09:55:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/web/image/276808?unique=f3988ec93216d8ea670b886b5d2f589f504950b9
+09:55:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/web/image/259134?unique=48716bfc84212676988b362a83f48529657f70b9
+09:55:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/web/image/248231?unique=9c5d1d75a8f41cf2c13bf7eca05862d530310cfb
+09:55:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/web/image/250053?unique=0305fd1bb17b3f539f4b1f167b854926b2316b5d
+09:55:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/web/image/250040?unique=787682a787c3e32320d2eb1c662ab22a6c8d3b1c
+09:55:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/web/image/236922?unique=1f3d1b44bc4060c6f13dbe210bb0a04ee123e8f2%20Est%20Public%20%e2%80%8b
+09:55:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/web/image/236889?unique=ef1df520780d11edad037ab618ae014e6c9c7b4e
+09:55:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/web/image/236873?unique=89f59797fc74cd331a411e85df39778eec7c935a
+09:55:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/15/4e11ea84-6b7d-4cbc-bfaf-f0b4b0b0919f/82
+09:55:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/16/8de60b30-8f10-4537-bf91-30eb6f711898/55
+09:55:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/17/23012855-5706-4434-9bad-6e6b63516ad7/51
+09:55:18	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/18/7edeaa89-1db0-4059-b9b7-873760e798ee/53
+09:55:19	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/19/5b57a6f7-8059-4492-af72-efdc6e1f7f8c/48
+09:55:19	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/20/fe4457c7-5bdc-4774-90d8-dabf07711df3/49
+09:55:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/21/2f29e636-9460-4fc0-89c6-70196e181e18/83
+09:55:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/22/73ba68f1-76ac-49b4-8a68-5f4f0b433057/84
+09:55:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/23/3d50d698-9026-461d-a2d8-c9db8a738bcd/58
+09:55:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/24/80361c66-7c72-4134-9ffc-59d96b72add8/85
+09:55:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/25/fcb0ae9d-4642-4cb7-8d01-ca378d43e62d/59
+09:55:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/26/3fbef747-3461-4970-8794-3d305d1e1134/86
+09:55:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/27/2953edf2-75d7-4a7f-bf74-0bf828a92378/87
+09:55:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/28/5f899e0c-c499-4310-ba77-4620a6557e7f/61
+09:55:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/29/754a3079-df7d-4e7f-9967-e56bc69cc057/67
+09:55:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/30/b6541f17-bfe4-4306-b19a-b0c4d04939ff/88
+09:55:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/31/151aeccb-1e0a-4641-9982-f0ef6775662f/57
+09:55:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/femmes-en-fete
+09:55:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/33/719eef12-452d-48ef-aac9-4989e784e43d/90
+09:55:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/34/e1c65f3a-06f9-457d-a8ca-71db8dfca9a9/65
+09:55:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/35/28771b23-3ed6-4a57-bdd4-cfe1627939e1/91
+09:55:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/38/f4e068c3-11b3-4fdd-89d9-52b0f8572347/93
+09:55:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/37/1f6f0186-4401-4b7c-b8b7-2cbe9b3dc46f/92
+09:55:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/36/7c1b41c7-04be-4e5c-98a6-497da93a85f0/64
+09:55:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/40/b2f90c86-4a45-4509-b253-6133c36a9e7f/62
+09:55:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/41/e96f4f42-0347-4d51-82d9-b7097bdd453a/56
+09:55:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/42/b13eaf7a-c425-4241-ac2f-48a6ce4a178c/68
+09:55:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/43/4cb1bd43-288b-4ccb-a524-b56d5423fb40/94
+09:55:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/44/d671c172-964d-4ce2-9ba5-b2e22a294277/95
+09:55:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/45/24347a8e-15e3-401b-9a5b-150aba4ff833/96
+09:55:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/46/aa6d5096-f6ff-4bbe-81d3-7b91748670cc/97
+09:55:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/47/02950212-a9a7-48c3-9578-07c46bc854a1/98
+09:55:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/48/1f0d45c6-cbd8-4bc6-9406-dd1267228765/99
+09:55:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/50/8a2877e3-ced5-4ba5-91ac-824b7818bf86/101
+09:55:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/49/8d9c46e3-5abb-463f-9666-a96ba48fc983/100
+09:55:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/64/7e0d3c7b-ce13-4217-be89-9d5f5db36df0/112
+09:55:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/65/e5c89563-8ab3-4f97-8490-fc4d0d5929bc/111
+09:55:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/66/28897f27-d455-4509-878b-cd97bd1e3f1c/110
+09:55:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/67/2931be86-4b78-435d-a582-a21e26fa6346/109
+09:55:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/68/1fd31233-3b22-4f5b-8b4f-b00d1274b632/108
+09:55:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/69/0123d6d2-84ad-4de0-8de1-ca652c85bf0f/107
+09:55:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/72/e9437995-07b9-4eed-b629-c5545cd25a5d/104
+09:55:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/73/6224325c-16f3-4da7-bea8-39167d309c9e/103
+09:55:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/web/image/251886?unique=d299da97ce614a100b6f7e2ed136aaf64c83eeda
+09:55:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/web/image/269887?unique=a5084c684e41a114c9c4a23fa607ed7369b91c37
+09:55:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/web/image/269917?unique=27d5200d6d90c0a1414e5c2e8ee6dc5e9b192282
+09:55:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/aide-hivernale
+09:56:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/web/image/website/1/social_default_image?unique=6c2934b
+09:56:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/kit-scolaire
+09:56:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/web/image/website/1/social_default_image/300x300?unique=6c2934b
+09:56:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/noel-pour-tous
+09:57:00	Error: 	Unable to save file C:/My Web Sites/https___www.donsolidaires.fr_04/www.donsolidaires.fr/blog: Permission denied
+09:57:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/ils-nous-font-confiance
+09:57:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/commander-des-produits
+09:57:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/web/image/247692?unique=102b481d21686299ffa4164fd3f06222cac7d9d4
+09:57:19	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/web/image/238868?unique=d4bc2a809ae4d4664920d8e88d6041277f249120
+09:57:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/web/image/240965?unique=0cd7b8a057911db55a028cc13bc59360962026a8
+09:57:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/web/image/236922?unique=1f3d1b44bc4060c6f13dbe210bb0a04ee123e8f2
+09:57:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/web/image/238537?unique=bb8080fcd87ab2fde1870532bbc71cfc0d512d43
+09:57:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/web/image/238536?unique=20a261dca0ff16a58288f0567824436906b1b374
+09:57:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/web/image/238535?unique=a594cf3697864b49a323206d3ae2c08543a335ed
+09:57:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/precarite-hygienique
+09:57:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/web/image/website/1/social_default_image?unique=06b096d
+09:57:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/web/image/380855?unique=334102bc5507eafbacda98d0ba475878ffdeeac9
+09:57:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/web/image/380872?unique=e025a9bae0c9e02df3a7ca61f40fffe399422ef6
+09:57:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/web/image/287165?unique=c5d7bdadf635ca0cede74abc1a7f6978494c6387
+09:57:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/web/image/287193?unique=f3b0b3c023acf8ac3093480c89f1caaa9d3e0583
+09:57:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/76/7fdccb32-e102-4188-9c7d-6248af39b33e/114
+09:57:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/web/image/236907?unique=c994b8ef3036f78a5f075f2052d024681f7872e7
+09:57:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/web/image/236906?unique=336c6fe32eca9f6db488f7847ccf74cf6dd0d7d6
+09:57:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/precarite-menstruelle
+09:57:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/61/dce18265-dfa6-44ea-a354-d54a4ce94795/69
+09:57:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/web/image/240573?unique=d718952413928210edc02040bfa94dd7e903b26c
+09:57:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/56/3058efd8-261c-440b-94f8-d6544b292733/72
+09:57:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/57/f8ec8615-7fad-420c-be88-38f35d8ccf85/73
+09:57:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/58/38122d65-dab6-4d78-b9ef-01f4cd86756e/74
+09:57:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/6/34527ce8-8724-4a61-9273-dabf160f3efe/55
+09:57:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/54/81c750f6-0338-4a4c-8f4f-875754658867/77
+09:58:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/55/8bda2699-b9cc-48b0-b4e4-c55ea456dce8/75
+09:58:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/83/e323e7fb-8acb-4690-8874-10566e0b0e2e/122
+09:58:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/82/d85c01fc-931e-4959-a154-626b9e1f5384/123
+09:58:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/51/4e89303f-d860-4244-8be1-2020edb72ee4/78
+09:58:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/52/681d9a60-a2e3-4020-bbb6-d4767b846649/80
+09:58:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/53/b40c41af-3e11-4090-95f8-82aaba4d00ab/79
+09:58:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/web/image/res.company/1/logo/Dons Solidaires?unique=6c2934b
+09:58:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/39/04847738-dd2d-4da2-959e-c40fbc2fff34/63
+09:58:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/nos-publications
+09:58:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/feed
+09:58:59	Error: 	"NOT FOUND" (404) at link https://www.donsolidaires.fr/document/download/79/fef06fa6-106d-49da-88ff-d21725eafdc7/116 (from https://www.donsolidaires.fr/)
+09:59:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/faire-un-don
+09:59:39	Error: 	"FORBIDDEN" (403) at link https://www.donsolidaires.fr/shop (from https://www.donsolidaires.fr/)
+09:59:39	Error: 	Unable to save file C:/My Web Sites/https___www.donsolidaires.fr_04/www.donsolidaires.fr/shop: Permission denied
+09:59:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/100/6dbf8d1a-544e-417f-a414-0e5fe8cf37ab/129
+09:59:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/93/1084a7b1-7f0e-4061-9ba8-cf79ce79388f/130
+09:59:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/95/c1e140a3-c1e6-4c7a-b1ea-5d72306a3dd4/128
+09:59:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/96/059b2309-49fe-4564-970a-d9e9bb0cf6a6/127
+09:59:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/97/dfa61dea-7a12-4c04-9261-f66a4805bcdd/126
+09:59:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/98/fbbb021e-a40a-4cd8-bd2b-ee38740e5acb/125
+09:59:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/99/05612d23-f207-49fa-800a-aea86dbde7ae/124
+09:59:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/web/image/website/1/social_default_image?unique=4784b93
+10:00:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/page-loi-agec
+10:00:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/blog/voyager-8/feed
+10:00:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/etude-d-impact-social-dons-solidaires-2022
+10:01:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/74/d8120ff8-d041-4463-aa28-4afdc7e47c17/75
+10:01:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/84/09d15feb-b4d2-445b-94c9-fbe785d9cab0/131
+10:01:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/75/494fc61f-8d39-442d-8d2a-4617f0ca8ac0/77
+10:01:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/86/b38ea5a3-1710-4e0b-ac2e-04cddc55e8c8/74
+10:01:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/87/72a42901-14aa-4bf6-acbe-de75c7ad1e13/72
+10:01:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/89/ef0287da-ed5b-4853-84d1-dce27a7de4af/133
+10:01:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/90/6790db9a-71a7-444d-80cd-5d72ab8fdfae/133
+10:01:36	Warning: 	Moved Permanently for https://www.donsolidaires.fr/odd-dons-solidaires
+10:01:36	Warning: 	File has moved from https://www.donsolidaires.fr/odd-dons-solidaires to https://www.donsolidaires.fr/impact-social-environnemental-odd-dons-solidaires
+10:01:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/91/1a670171-6184-41b1-8a1e-9f237ea0d460/134
+10:02:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/quels-produits-donner
+10:02:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/notre-expertise-et-nos-garanties
+10:03:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/avantages-du-don-de-produit
+10:03:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/devenir-partenaire
+10:03:55	Warning: 	HTML file (991 bytes) retransferred due to lack of cache: https://fonts.googleapis.com/
+10:03:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/qui-peut-recevoir-nos-produits
+10:03:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/sylvaine-cussot
+10:03:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/contact-mecene
+10:03:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/4eme-barometre-hygiene-precarite-en-france
+10:03:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/4eme-barometre-le-renoncement-a-l-achat-de-cadeaux-de-noel-un-marqueur-de-precarite-ifop-pour-dons-solidaires-2023
+10:03:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/3eme-barometre-hygiene-precarite-en-france-mars-2023
+10:03:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/etudes-3e-barometre-noel-dons-solidaires
+10:03:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/etude-2e-barometre-noel-dons-solidaires
+10:03:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/etude-2-hygiene-precarite-barometre-dons-solidaires
+10:04:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/1er-barometre-noel-2020
+10:04:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/etude-1er-barometre-hygiene-precarite-dons-solidaires
+10:04:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/share/32/c4036dc1-c657-4345-bf60-003c668a1d7e
+10:04:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/web/image/249409?unique=1cdaf92f2eea426a8dbe207c5b5999348e1bb3d7
+10:04:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/70/f0cf8263-27c9-4720-a6d5-f9681a0d8719/106
+10:04:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/share/71/577b5884-376d-411c-be95-8fa5b7eadbc9
+10:04:03	Warning: 	MOVED PERMANENTLY for https://www.donsolidaires.fr/blog/3/feed
+10:04:03	Warning: 	File has moved from https://www.donsolidaires.fr/blog/3/feed to https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/feed
+10:04:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/ca-rend-juste-humain-laide-precieuse-des-epiceries-solidaires-en-matiere-de-precarite-hygienique-167
+10:04:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/noel-pour-tous-2023-le-tour-des-evenements-en-region-166
+10:04:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/noel-pour-tous-des-evenements-solidaires-pour-partager-la-magie-des-fetes-de-fin-dannee-165
+10:04:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/4eme-barometre-le-renoncement-a-l-achat-de-cadeaux-de-noel-un-marqueur-de-precarite-dons-solidaires-2023-164
+10:04:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/dons-solidaires-renforce-sa-lutte-contre-la-precarite-en-region-auvergne-rhone-alpes-163
+10:04:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/dons-solidaires-integre-le-pacte-pour-les-premiers-pas-contre-la-precarite-infantile-162
+10:04:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/mieux-comprendre-la-precarite-des-tout-petits-161
+10:04:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/andes-x-dons-solidaires-un-partenariat-cle-pour-soutenir-les-plus-demunis-160
+10:04:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/semaine-du-developpement-durable-mieux-comprendre-le-don-d-invendus-et-son-impact-social-159
+10:04:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/dons-solidaires-association-agreee-1-for-the-planet-recoit-le-soutien-de-terraillon-158
+10:04:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/loperation-kit-scolaire-plus-que-jamais-essentielle-pour-les-familles-en-difficulte-157
+10:04:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/page/2
+10:04:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/contact-association
+10:04:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/contact-entreprise
+10:04:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/contact-antenne-regionale
+10:04:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/contact-autres
+10:04:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/web/reset_password
+10:04:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/blog/page/2
+10:04:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/communique-de-presse
+10:04:12	Warning: 	Moved Permanently for https://www.donsolidaires.fr/ils-parlent-de-nous
+10:04:12	Warning: 	File has moved from https://www.donsolidaires.fr/ils-parlent-de-nous to https://www.donsolidaires.fr/dans-les-medias
+10:04:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/impact-social-environnemental-odd-dons-solidaires
+10:04:12	Error: 	"NOT FOUND" (404) at link https://www.donsolidaires.fr/document/share/55/1ba16906-b90f-4697-87b9-8678edc7c8d4 (from https://www.donsolidaires.fr/etude-2e-barometre-noel-dons-solidaires)
+10:04:13	Error: 	"NOT FOUND" (404) at link https://www.donsolidaires.fr/document/share/53/7b9c4894-702a-476b-9d58-65d26c7886c2 (from https://www.donsolidaires.fr/etude-2e-barometre-noel-dons-solidaires)
+10:04:13	Error: 	"NOT FOUND" (404) at link https://www.donsolidaires.fr/document/share/54/c8e1fe71-ae86-43b0-ab40-22c1f8bd1449 (from https://www.donsolidaires.fr/etude-2e-barometre-noel-dons-solidaires)
+10:04:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/web/login?redirect=https://ds-solidaires.odoo.com/document/share/32/c4036dc1-c657-4345-bf60-003c668a1d7e
+10:04:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/web/login?redirect=https://ds-solidaires.odoo.com/document/share/71/577b5884-376d-411c-be95-8fa5b7eadbc9
+10:04:26	Warning: 	MOVED PERMANENTLY for https://www.donsolidaires.fr/blog/8/feed
+10:04:26	Warning: 	File has moved from https://www.donsolidaires.fr/blog/8/feed to https://www.donsolidaires.fr/blog/voyager-8/feed
+10:04:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/3-choses-que-vous-ne-saviez-pas-sur-les-produits-dhygiene-152
+10:04:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/operation-mois-de-lhygiene-460-000-produits-dhygiene-distribues-en-un-mois-aux-plus-demunis-151
+10:04:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/precarite-hygienique-aider-les-personnes-a-la-rue-150
+10:04:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/retour-en-images-femmes-en-fete-2023-sous-le-signe-de-lempowerment-149
+10:04:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/3-points-pour-comprendre-pourquoi-les-femmes-sont-plus-touchees-par-la-precarite-148
+10:04:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/2-podcasts-a-ecouter-pour-mieux-comprendre-la-precarite-hygienique-et-menstruelle-147
+10:04:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/femmes-en-fete-yves-rocher-engage-pour-le-bien-etre-des-femmes-avec-dons-solidaires-146
+10:04:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/les-belles-histoires-dons-solidaires-x-galeries-lafayette-145
+10:04:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/barometre-2023-de-plus-en-plus-de-francais-touches-par-la-precarite-hygienique-144
+10:04:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/la-13eme-edition-du-noel-pour-tous-de-dons-solidaires-est-lancee-51
+10:04:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/achats-de-noel-precarite-3e-barometre-ifop-pour-dons-solidaires-50
+10:04:34	Error: 	"NOT FOUND" (404) at link https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/page/"/web/image/290090-38899162/blurry-gradient-haikei 2.png" (from https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/page/2)
+10:04:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/7200-kits-bebe-distribues-pour-aider-les-familles-en-difficulte-54
+10:04:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/fete-ton-look-coup-de-projecteur-sur-les-mannequins-en-herbe-avec-dons-solidaires-53
+10:04:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/des-kits-hygiene-pour-lutter-contre-la-precarite-52
+10:04:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/webinaire-dons-solidaires-r-seri2022-loi-agec-et-dons-de-produits-on-vous-explique-tout-49
+10:04:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/une-rentree-scolaire-synonyme-degalite-avec-dons-solidaires-48
+10:04:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/le-petit-guide-des-regles-on-sang-parle-de-dons-solidaires-62
+10:04:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/femmes-en-fete-aider-les-femmes-a-se-sentir-belles-et-confiantes-139
+10:04:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/dons-solidaires-se-mobilise-pour-aider-les-refugies-ukrainiens-138
+10:04:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/tag/guerre-en-ukraine-5
+10:04:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/des-kits-hygiene-pour-lutter-contre-la-precarite-136
+10:04:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/collecte-solidaire-de-produits-dhygiene-avec-la-fondation-nexity-135
+10:04:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/8-mars-2022-legalite-aujourdhui-pour-un-avenir-durable-dons-solidaires-r-soutient-les-droits-des-femmes-134
+10:04:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/dons-solidaires-premier-bilan-a-loccasion-des-deux-ans-de-la-loi-agec-133
+10:04:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/arrondir-en-caisse-dans-votre-monoprix-cest-lutter-contre-la-precarite-hygienique-132
+10:04:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/anti-gaspi-et-solidarite-barbara-pompili-a-la-rencontre-de-dons-solidaires-a-tigery-131
+10:04:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/achats-de-noel-precarite-2e-barometre-ifop-pour-dons-solidaires-130
+10:04:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/resultats-de-letude-ademe-gisement-et-devenir-des-invendus-non-alimentaires-129
+10:04:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/dons-solidaires-lance-sa-campagne-noel-pour-tous-2021-128
+10:04:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/paroles-de-benevoles-127
+10:04:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/team-giving-tuesday-ou-pas-126
+10:04:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/appel-aux-dons-aidehivernale-125
+10:04:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/fete-ton-look-2021-124
+10:04:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/un-hackathon-pour-lutter-contre-la-precarite-hygienique-122
+10:04:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/tag/tech-et-transformations-3
+10:04:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/kit-scolaire-2021-une-rentree-solidaire-et-au-top-121
+10:04:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/lutte-contre-la-precarite-menstruelle-olivier-veran-et-elisabeth-moreno-chez-dons-solidaires-120
+10:04:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/plan-francerelance-dons-solidaires-parmi-les-laureats-pour-son-action-de-lutte-contre-la-precarite-119
+10:04:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/pampers-fait-don-d1-million-de-couches-118
+10:04:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/cest-officiel-nous-sommes-reconnus-dutilite-publique-140
+10:04:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/loi-agec-et-gestion-des-invendus-non-alimentaires-141
+10:04:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/claudio-capeo-soutient-noel-pour-tous-143
+10:04:48	Error: 	"NOT FOUND" (404) at link https://www.donsolidaires.fr/blog/page/"/web/image/290090-38899162/blurry-gradient-haikei 2.png" (from https://www.donsolidaires.fr/blog/page/2)
+10:04:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/web/reset_password?redirect=https%3A%2F%2Fds-solidaires.odoo.com%2Fdocument%2Fshare%2F32%2Fc4036dc1-c657-4345-bf60-003c668a1d7e
+10:04:49	Error: 	"NOT FOUND" (404) at link https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/tag/"/web/image/290090-38899162/blurry-gradient-haikei 2.png" (from https://www.donsolidaires.fr/blog/actualites-dons-solidaires-3/tag/guerre-en-ukraine-5)
+10:04:49	Warning: 	HTML file (925 bytes) retransferred due to lack of cache: https://www.donsolidaires.fr/des-kits-hygiene-pour-lutter-contre-la-precarite/
+10:04:49	Warning: 	MOVED PERMANENTLY for https://www.donsolidaires.fr/des-kits-hygiene-pour-lutter-contre-la-precarite/
+10:04:49	Warning: 	File has moved from https://www.donsolidaires.fr/des-kits-hygiene-pour-lutter-contre-la-precarite/ to https://www.donsolidaires.fr/des-kits-hygiene-pour-lutter-contre-la-precarite
+10:04:49	Warning: 	HTML file (965 bytes) retransferred due to lack of cache: https://www.donsolidaires.fr/8-mars-2022-dons-solidaires-soutient-les-droits-des-femmes/
+10:04:50	Warning: 	MOVED PERMANENTLY for https://www.donsolidaires.fr/8-mars-2022-dons-solidaires-soutient-les-droits-des-femmes/
+10:04:50	Warning: 	File has moved from https://www.donsolidaires.fr/8-mars-2022-dons-solidaires-soutient-les-droits-des-femmes/ to https://www.donsolidaires.fr/8-mars-2022-dons-solidaires-soutient-les-droits-des-femmes
+10:04:50	Warning: 	HTML file (967 bytes) retransferred due to lack of cache: https://www.donsolidaires.fr/entreprise-don-de-produits/entreprises-1-la-loi-agec-et-ses-implications/
+10:04:50	Warning: 	MOVED PERMANENTLY for https://www.donsolidaires.fr/entreprise-don-de-produits/entreprises-1-la-loi-agec-et-ses-implications/
+10:04:50	Warning: 	File has moved from https://www.donsolidaires.fr/entreprise-don-de-produits/entreprises-1-la-loi-agec-et-ses-implications/ to https://www.donsolidaires.fr/entreprise-don-de-produits/entreprises-1-la-loi-agec-et-ses-implications
+10:04:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/88/00e3f134-0315-473d-8f78-8b6a6cca9ff1/132
+10:04:52	Warning: 	HTML file (993 bytes) retransferred due to lack of cache: https://www.donsolidaires.fr/les-achats-de-noel-la-precarite-sondage-ifop-pour-dons-solidaires/
+10:04:52	Warning: 	MOVED PERMANENTLY for https://www.donsolidaires.fr/les-achats-de-noel-la-precarite-sondage-ifop-pour-dons-solidaires/
+10:04:52	Warning: 	File has moved from https://www.donsolidaires.fr/les-achats-de-noel-la-precarite-sondage-ifop-pour-dons-solidaires/ to https://www.donsolidaires.fr/les-achats-de-noel-la-precarite-sondage-ifop-pour-dons-solidaires
+10:04:52	Warning: 	HTML file (835 bytes) retransferred due to lack of cache: https://www.donsolidaires.fr/entreprise-don-de-produits/mecenes/id-group/
+10:04:53	Warning: 	MOVED PERMANENTLY for https://www.donsolidaires.fr/entreprise-don-de-produits/mecenes/id-group/
+10:04:53	Warning: 	File has moved from https://www.donsolidaires.fr/entreprise-don-de-produits/mecenes/id-group/ to https://www.donsolidaires.fr/entreprise-don-de-produits/mecenes/id-group
+10:04:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.donsolidaires.fr/document/download/81/e244884f-3559-4d44-b279-c41cb4e72248/121
+10:04:53	Warning: 	HTML file (929 bytes) retransferred due to lack of cache: https://www.donsolidaires.fr/loi-agec-et-gestion-des-invendus-non-alimentaires/
+10:04:54	Warning: 	MOVED PERMANENTLY for https://www.donsolidaires.fr/loi-agec-et-gestion-des-invendus-non-alimentaires/
+10:04:54	Warning: 	File has moved from https://www.donsolidaires.fr/loi-agec-et-gestion-des-invendus-non-alimentaires/ to https://www.donsolidaires.fr/loi-agec-et-gestion-des-invendus-non-alimentaires
+10:04:54	Error: 	"NOT FOUND" (404) at link https://www.donsolidaires.fr/blog/tag/"/web/image/290090-38899162/blurry-gradient-haikei 2.png" (from https://www.donsolidaires.fr/blog/tag/guerre-en-ukraine-5)
+10:04:59	Warning: 	Retry after error -4 (Interrupted transfer) at link https://fonts.googleapis.com/ (from https://www.donsolidaires.fr/)
+10:04:59	Warning: 	HTML file (991 bytes) retransferred due to lack of cache: https://fonts.googleapis.com/
+10:04:59	Warning: 	MOVED PERMANENTLY for https://www.donsolidaires.fr/web_map/static/lib/leaflet/
+10:04:59	Warning: 	File has moved from https://www.donsolidaires.fr/web_map/static/lib/leaflet/ to https://www.donsolidaires.fr/web_map/static/lib/leaflet
+10:05:00	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://fonts.googleapis.com/ (from https://www.donsolidaires.fr/)
+10:05:00	Error: 	"NOT FOUND" (404) at link https://www.donsolidaires.fr/web_map/static/lib/leaflet (from https://www.donsolidaires.fr/web_map/static/lib/leaflet/)
+10:05:00	Error: 	Unable to save file C:/My Web Sites/https___www.donsolidaires.fr_04/www.donsolidaires.fr/web_map/static/lib/leaflet: Permission denied
+
+HTTrack Website Copier/3.49-2 mirror complete in 33 minutes 0 seconds : 1263 links scanned, 1433 files written (620628878 bytes overall) [366405173 bytes received at 185053 bytes/sec], 4685606 bytes transferred using HTTP compression in 104 files, ratio 25%, 1.0 requests per connection
+(41 errors, 291 warnings, 0 messages)

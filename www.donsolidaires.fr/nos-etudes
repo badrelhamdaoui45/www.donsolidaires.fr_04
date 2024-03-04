@@ -1,0 +1,867 @@
+<!DOCTYPE html>
+        <html lang="fr-FR" data-website-id="1" data-main-object="website.page(192,)" data-oe-company-name="Dons Solidaires" data-add2cart-redirect="1">
+    
+<!-- Mirrored from www.donsolidaires.fr/nos-etudes by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 04 Mar 2024 08:32:10 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+                <meta charset="utf-8"/>
+                <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+            <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <meta name="generator" content="Odoo"/>
+        <meta name="description" content="Précarité hygiénique et menstruelle, achats de noël et précarité ... découvrez les dernières études de Dons Solidaires menées avec l&#39;Ifop."/>
+                        <meta property="og:type" content="website"/>
+                        <meta property="og:title" content="Précarité : les baromètres de Dons Solidaires"/>
+                        <meta property="og:site_name" content="Dons Solidaires"/>
+                        <meta property="og:url" content="nos-etudes"/>
+                        <meta property="og:image" content="web/image/website/1/social_default_imageb1d9?unique=285ca43"/>
+                        <meta property="og:description" content="Précarité hygiénique et menstruelle, achats de noël et précarité ... découvrez les dernières études de Dons Solidaires menées avec l&#39;Ifop."/>
+                    <meta name="twitter:card" content="summary_large_image"/>
+                    <meta name="twitter:title" content="Précarité : les baromètres de Dons Solidaires"/>
+                    <meta name="twitter:image" content="web/image/website/1/social_default_imageb1d9?unique=285ca43"/>
+                    <meta name="twitter:description" content="Précarité hygiénique et menstruelle, achats de noël et précarité ... découvrez les dernières études de Dons Solidaires menées avec l&#39;Ifop."/>
+        <link rel="canonical" href="nos-etudes"/>
+        <link rel="preconnect" href="../fonts.gstatic.com/index.html" crossorigin=""/>
+                <title>Précarité : les baromètres de Dons Solidaires</title>
+                <link type="image/x-icon" rel="shortcut icon" href="web/image/website/1/favicond599?unique=6c2934b"/>
+            <link rel="preload" href="web/static/lib/fontawesome/fonts/fontawesome-webfont3e6e.woff2?v=4.7.0" as="font" crossorigin=""/>
+            <link type="text/css" rel="stylesheet" href="web/assets/383456-9354809/1/web.assets_common.min.css" data-asset-bundle="web.assets_common" data-asset-version="9354809"/>
+            <link type="text/css" rel="stylesheet" href="web/assets/382870-a7ee59d/1/web.assets_frontend.min.css" data-asset-bundle="web.assets_frontend" data-asset-version="a7ee59d"/>
+                <script id="web.layout.odooscript" type="text/javascript">
+                    var odoo = {
+                        csrf_token: "8d8cb20b4b63a646f19752af14ec95a50b88eec5o1741077127",
+                        debug: "",
+                    };
+                </script>
+            <script type="text/javascript">
+                odoo.__session_info__ = {"is_admin": false, "is_system": false, "is_website_user": true, "user_id": false, "is_frontend": true, "profile_session": null, "profile_collectors": null, "profile_params": null, "show_effect": "True", "translationURL": "/website/translations", "cache_hashes": {"translations": "a424f8024938c1329cc0f372af76217872837b78"}, "lang_url_code": "fr", "geoip_country_code": "MA"};
+                if (!/(^|;\s)tz=/.test(document.cookie)) {
+                    const userTZ = Intl.DateTimeFormat().resolvedOptions().timeZone;
+                    document.cookie = `tz=${userTZ}; path=/`;
+                }
+            </script>
+            <script defer="defer" type="text/javascript" src="web/assets/293495-9b03c68/1/web.assets_common_minimal.min.js" data-asset-bundle="web.assets_common_minimal" data-asset-version="9b03c68"></script>
+            <script defer="defer" type="text/javascript" src="web/assets/249756-ac44e01/1/web.assets_frontend_minimal.min.js" data-asset-bundle="web.assets_frontend_minimal" data-asset-version="ac44e01"></script>
+            <script defer="defer" type="text/javascript" data-src="/web/assets/383432-86dd63f/1/web.assets_common_lazy.min.js" data-asset-bundle="web.assets_common_lazy" data-asset-version="86dd63f"></script>
+            <script defer="defer" type="text/javascript" data-src="/web/assets/382871-953e7a6/1/web.assets_frontend_lazy.min.js" data-asset-bundle="web.assets_frontend_lazy" data-asset-version="953e7a6"></script>
+        <link rel="preconnect" href="../fonts.googleapis.com/index.html">
+<link rel="preconnect" href="../fonts.gstatic.com/index.html" crossorigin>
+<link href="../fonts.googleapis.com/css2928c?family=Lato:ital,wght@0,400;0,700;1,400;1,700&amp;family=Poppins:wght@700&amp;display=swap" rel="stylesheet">
+    <script type="text/javascript" src="https://cache.consentframework.com/js/pa/34042/c/hwUXb/stub" referrerpolicy="origin"></script>
+<script>
+window.Sddan = {
+    "info": {
+        "hd_m" : "",
+        "hd_s256" : "",
+        "uf_postal_code" : "",
+        "uf_bday" : "",
+        "uf_gender" : "",
+    }
+};
+</script>
+<script type="text/javascript" src="https://choices.consentframework.com/js/pa/34042/c/hwUXb/cmp" referrerpolicy="origin" async></script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'../www.googletagmanager.com/gtm5445.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WHVKFV3');</script>
+<!-- End Google Tag Manager -->
+    </head>
+            <body class="">
+        <div id="wrapwrap" class="   ">
+    <header id="top" data-anchor="true" data-name="Header" class="  o_header_standard">
+    <nav data-name="Navbar" class="navbar navbar-expand-lg navbar-light o_colored_level o_cc shadow-sm">
+            <div id="top_menu_container" class="container justify-content-start justify-content-lg-between">
+    <a href="index.html" class="navbar-brand logo mr-4">
+            <span role="img" aria-label="Logo of Dons Solidaires - Donner, Distribuer, Partager" title="Dons Solidaires - Donner, Distribuer, Partager"><img src="web/image/website/1/logo/Dons%20Solidaires%20-%20Donner%2c%20Distribuer%2c%20Partagerd599?unique=6c2934b" class="img img-fluid" alt="Dons Solidaires - Donner, Distribuer, Partager" loading="lazy"/></span>
+        </a>
+                <div id="top_menu_collapse" class="collapse navbar-collapse order-last order-lg-0">
+    <ul id="top_menu" role="menu" class="nav navbar-nav o_menu_loading flex-grow-1">
+    <li class="nav-item dropdown  ">
+        <a data-toggle="dropdown" href="#" class="nav-link dropdown-toggle ">
+            <span>Nous connaître</span>
+        </a>
+        <ul class="dropdown-menu" role="menu">
+    <li role="presentation" class="">
+        <a role="menuitem" href="qui-sommes-nous" class="dropdown-item ">
+            <span>Qui sommes nous </span>
+        </a>
+    </li>
+    <li role="presentation" class="">
+        <a role="menuitem" href="nos-missions" class="dropdown-item ">
+            <span>Nos missions</span>
+        </a>
+    </li>
+    <li role="presentation" class="">
+        <a role="menuitem" href="nos-equipes" class="dropdown-item ">
+            <span>Nos équipes</span>
+        </a>
+    </li>
+    <li role="presentation" class="">
+        <a role="menuitem" href="domaines-d-intervention" class="dropdown-item ">
+            <span>Domaines d&#39;intervention</span>
+        </a>
+    </li>
+    <li role="presentation" class="">
+        <a role="menuitem" href="antennes-regionales" class="dropdown-item ">
+            <span>Antennes régionales</span>
+        </a>
+    </li>
+    <li role="presentation" class="">
+        <a role="menuitem" href="nous-rejoindre" class="dropdown-item ">
+            <span>Nous rejoindre</span>
+        </a>
+    </li>
+        </ul>
+    </li>
+    <li class="nav-item dropdown  ">
+        <a data-toggle="dropdown" href="#" class="nav-link dropdown-toggle ">
+            <span>Vous êtes</span>
+        </a>
+        <ul class="dropdown-menu" role="menu">
+    <li role="presentation" class="">
+        <a role="menuitem" href="entreprise" class="dropdown-item ">
+            <span>Entreprise</span>
+        </a>
+    </li>
+    <li role="presentation" class="">
+        <a role="menuitem" href="association" class="dropdown-item ">
+            <span>Association</span>
+        </a>
+    </li>
+    <li role="presentation" class="">
+        <a role="menuitem" href="particuliers" class="dropdown-item ">
+            <span>Particuliers</span>
+        </a>
+    </li>
+    <li role="presentation" class="">
+        <a role="menuitem" href="je-suis-une-institution" class="dropdown-item ">
+            <span>Institution</span>
+        </a>
+    </li>
+        </ul>
+    </li>
+    <li class="nav-item dropdown active ">
+        <a data-toggle="dropdown" href="#" class="nav-link dropdown-toggle ">
+            <span>Nos publications</span>
+        </a>
+        <ul class="dropdown-menu" role="menu">
+    <li role="presentation" class="">
+        <a role="menuitem" href="nos-etudes" class="dropdown-item active">
+            <span>Nos études</span>
+        </a>
+    </li>
+    <li role="presentation" class="">
+        <a role="menuitem" href="nos-bilans-doperation" class="dropdown-item ">
+            <span>Nos bilans d’opération</span>
+        </a>
+    </li>
+    <li role="presentation" class="">
+        <a role="menuitem" href="nos-rapports-dactivite" class="dropdown-item ">
+            <span>Nos rapports d’activité</span>
+        </a>
+    </li>
+        </ul>
+    </li>
+    <li class="nav-item dropdown  ">
+        <a data-toggle="dropdown" href="#" class="nav-link dropdown-toggle ">
+            <span>Actualités</span>
+        </a>
+        <ul class="dropdown-menu" role="menu">
+    <li role="presentation" class="">
+        <a role="menuitem" href="blog/actualites-dons-solidaires-3" class="dropdown-item ">
+            <span>Nos actus</span>
+        </a>
+    </li>
+    <li role="presentation" class="">
+        <a role="menuitem" href="dans-les-medias" class="dropdown-item ">
+            <span>Dans les médias</span>
+        </a>
+    </li>
+        </ul>
+    </li>
+    <li role="presentation" class="nav-item">
+        <a role="menuitem" href="contact" class="nav-link ">
+            <span>Nous contacter</span>
+        </a>
+    </li>
+        <li class="nav-item mx-lg-3 divider d-none"></li> 
+        <li class="o_wsale_my_cart align-self-md-start  nav-item mx-lg-3">
+            <a href="shop/cart" class="nav-link">
+                <i class="fa fa-shopping-cart"></i>
+                <sup class="my_cart_quantity badge badge-primary" data-order-id="">0</sup>
+    </a>
+        </li>
+            <li class="nav-item ml-lg-auto o_no_autohide_item">
+                <a href="web/login" class="nav-link font-weight-bold">Se connecter</a>
+            </li>
+    </ul>
+                </div>
+    <div class="oe_structure oe_structure_solo ml-lg-4"></div>
+    <button type="button" data-toggle="collapse" data-target="#top_menu_collapse" class="navbar-toggler ml-auto">
+        <span class="navbar-toggler-icon o_not_editable"></span>
+    </button>
+            </div>
+    </nav>
+    </header>
+                <main>
+    <div id="wrap" class="oe_structure oe_empty">
+      <section id="s_av93p5st_v2" class="py-4 o_colored_level pb0 pt0" style="background-image: none;" data-snippet="custom_header_page" data-original-title="" title="" aria-describedby="tooltip63854" data-name="Entête">
+        <div class="justify-content-center container">
+          <div class="grid_container" data-original-title="" title="" aria-describedby="tooltip607632">
+            <img src="web/image/238777-a29ea0bc/image00051.jpeg" alt="" loading="lazy" class="o_we_image_cropped" data-original-id="238776" data-original-src="/web/image/238776-01353ca1/image00051.jpeg" data-mimetype="image/jpeg" data-y="222.68041237113403" data-width="1686.1855670103091" data-height="1217.319587628866" data-scale-x="1" data-scale-y="1" data-aspect-ratio="0/0"/>
+            <div class="content grid_breadcrumb_title">
+              <div class="custom_breadcrumb pb-4" data-original-title="" title="" aria-describedby="tooltip414587">
+                <a href="#" class="o_default_snippet_text">
+                  <span style="font-size: 14px;">Accueil</span>
+                </a>
+                <span style="font-size: 14px;">
+                                </span>
+                <span class="o_default_snippet_text">
+                  <span style="font-size: 14px;"> &gt; </span>
+                </span>
+                <span style="font-size: 14px;">
+                  <u>Nous publications</u>
+                </span>
+              </div>
+              <div class="title">
+                        Nos études<br/></div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_title o_colored_level pb0 pt32 o_cc o_cc2" data-vcss="001" data-snippet="s_title" data-name="Title" style="background-color: rgb(191, 230, 238) !important;">
+        <div class="s_allow_columns container">
+          <h2 style="text-align: center;">
+            <span style="font-size: 48px;">
+              <strong>
+                <font class="text-o-color-5">Nos derniers chiffres</font>
+              </strong>
+            </span>
+            <font class="text-o-color-5">
+              <span style="background-color: rgb(191, 230, 238) !important; font-size: 48px;"></span>
+            </font>
+            <br/>
+          </h2>
+        </div>
+      </section>
+      <section class="s_numbers pb24 o_colored_level o_cc o_cc2 pt0" data-snippet="s_numbers" data-name="Numbers" style="background-image: none; background-color: rgb(191, 230, 238) !important;">
+        <div class="container">
+          <div class="row">
+            <div class="text-center o_colored_level col-lg-4 pb0 pt0">
+              <p>
+                <span class="s_number display-4" style="font-size:10rem;font-weight:bold;">
+                  <font class="text-o-color-5">
+                    <span style="font-size: 62px;">34%</span>
+                  </font>
+                  <span style="font-size: 62px;">&nbsp;</span>
+                  <br/>
+                </span>
+                <span style="font-size: 24px;"><font class="text-o-color-1"><strong>34% des&nbsp;Français limitent leur consommation de produits d'hygiène&nbsp;</strong></font><font class="text-o-color-5">essentiels, faute de moyens</font>&nbsp;<br/><font class="text-o-color-5"><span style="font-size: 14px;"><em>Baromètre “Hygiène et Précarité en France”, 2023 Ifop pour&nbsp;Dons Solidaires</em></span></font></span>
+                <span style="font-size: 14px;">
+                  <em>&nbsp;</em>
+                </span>
+                <br/>
+              </p>
+            </div>
+            <div class="text-center o_colored_level col-lg-4 pt0 pb0">
+              <p>
+                <span class="s_number display-4" style="font-size:10rem;font-weight:bold;">
+                  <font class="text-o-color-5">
+                    <span style="font-size: 62px;">2,8</span>
+                  </font>
+                  <span style="font-size: 62px;">&nbsp;</span>
+                </span>
+                <span style="font-size: 62px;">
+                </span>
+                <span style="font-size: 24px;">
+                  <br/>
+                  <font class="text-o-color-1">
+                    <strong>2,8 millions de femmes se privent régulièrement de protections menstruelles</strong>
+                  </font>
+                  <font class="text-o-color-5">, faute de moyens en France.<br/><span style="font-size: 14px;"><em>Baromètre “Hygiène et Précarité en France”, 2023 Ifop pour&nbsp;Dons Solidaires ​</em></span></font>
+                </span>
+                <br/>
+              </p>
+            </div>
+            <div class="text-center o_colored_level col-lg-4 pb0 pt0">
+              <p>
+                <span class="s_number display-4" style="font-size:10rem;font-weight:bold;">
+                  <font class="text-o-color-5">
+                    <span style="font-size: 62px;">61%</span>
+                  </font>
+                  <span style="font-size: 62px;">&nbsp;</span>
+                </span>
+                <span style="font-size: 62px;">
+                </span>
+                <span style="font-size: 24px;">
+                  <br/>
+                  <font class="text-o-color-5">À l’approche de Noël, plus&nbsp;<br/>d’</font>
+                  <font class="text-o-color-1"><strong>1 parent sur 2 compte&nbsp;se priver d’autres achats pour offrir des cadeaux</strong>&nbsp;</font>
+                  <font class="text-o-color-5">à ses enfants.&nbsp;</font>
+                </span>
+              </p>
+              <p>
+                <span style="font-size: 24px;"><em>&nbsp;</em><font class="text-o-color-5"><span style="font-size: 14px;"><em>Baromètre “Le renoncement aux achats de Noël, un marqueur de précarité”, 2023 IFOP pour&nbsp;</em></span><span style="font-size: 18px;"><br/></span><span style="font-size: 14px;"><em>Dons Solidaires ​</em></span></font>&nbsp;</span>
+                <br/>
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_text_block o_colored_level pt0 pb0" data-snippet="s_text_block" style="background-image: none;" data-name="Titre de section">
+        <div class="s_allow_columns bgblanc px-5 py-3 container">
+          <br/>
+          <br/>
+          <h2 style="text-align: justify;">Etude d'impact social</h2>
+        </div>
+      </section>
+      <section id="s_cb08t59f" data-snippet="s_custom_bilan_gauche_archive" style="background-image: none;" class="o_colored_level" data-name="Bloc ETUDE">
+        <div class="container">
+          <div class="grid_container bgblanc px-5 py-2">
+            <div class="bilan_item_left">
+              <img src="web/image/266224-d221b05b/couverture%20%c3%a9tude%20impact.jpg" alt="" loading="lazy" data-original-id="266223" data-original-src="/web/image/266223-ee02e4da/couverture%20%C3%A9tude%20impact.jpg" data-mimetype="image/jpeg" data-resize-width="690"/>
+              <div class="content" data-original-title="" title="" aria-describedby="tooltip334169">
+                <h2 data-original-title="" title="" aria-describedby="tooltip371884">Etude d'impact social Dons Solidaires - 2022</h2>
+                <p data-original-title="" title="" aria-describedby="tooltip516786">Dans une <strong>démarche de qualité</strong>, Dons Solidaires reconduit l'étude de son impact social.&nbsp;<br/>L'objectif ? <strong>Evaluer&nbsp;</strong><span style="color: rgb(0, 69, 108); font-size: 18px; font-style: normal; background-color: rgb(255, 255, 255);"><strong>la satisfaction </strong></span><span style="color: rgb(0, 69, 108);font-size: 18px;font-style: normal;font-weight: 400;background-color: rgb(255, 255, 255)">de nos partenaires vis-à-vis du service fourni pour améliorer nos pratiques ainsi que</span><strong>&nbsp;l'impact de nos actions </strong>sur nos associations partenaires et leurs bénéficiaires.</p>
+                <div class="btn_container" data-original-title="" title="" aria-describedby="tooltip455464">
+                  <a class="btn btn-custom" style="border-width: 1px; border-style: solid;" href="web/image/266114e75b?unique=cef47784ac619f872160e160289e51663cb0b5d3" data-original-title="" title="">Je consulte&nbsp;l’infographie</a>
+                  <a class="btn btn-custom bg-o-color-1" style="border-width: 1px; border-style: solid;" href="etude-d-impact-social-dons-solidaires-2022" data-original-title="" title="" aria-describedby="popover921285">Je consulte l’étude</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="s_text_block o_colored_level pt0 pb0" data-snippet="s_text_block" style="background-image: none;" data-name="Texte fond blanc">
+        <div class="s_allow_columns bgblanc px-5 py-3 container">
+          <div class="s_hr text-left pt32 pb0" data-snippet="s_hr" data-name="Separator">
+            <hr class="w-100 mx-auto" style="border-top-style: solid; border-top-width: 0px !important;"/>
+          </div>
+          <h2 style="text-align: justify;">Nos baromètres</h2>
+        </div>
+      </section>
+      <section id="s_cb08t59f" data-snippet="s_custom_bilan_gauche_archive" style="background-image: none;" class="o_colored_level" data-name="Bloc ETUDE">
+        <div class="container">
+          <div class="grid_container bgblanc px-5 py-2">
+            <div class="bilan_item_left">
+              <img src="web/image/381175-a754eaa6/couverture%204e%20barom%c3%a8tre%20hygi%c3%a8ne.jpg" alt="" loading="lazy" data-original-title="" title="" aria-describedby="tooltip619630" data-original-id="381174" data-original-src="/web/image/381174-633f8137/couverture%204e%20barom%C3%A8tre%20hygi%C3%A8ne.jpg" data-mimetype="image/jpeg" data-resize-width="690"/>
+              <div class="content" data-original-title="" title="" aria-describedby="tooltip334169">
+                <h2 data-original-title="" title="" aria-describedby="tooltip371884">&nbsp;4ème baromètre "Hygiène &amp; Précarité en France" - janvier 2024<br/></h2>
+                <p data-original-title="" title="" aria-describedby="tooltip516786">Un sondage inédit de l’institut IFOP, commandé par l’association Dons Solidaires et réalisé auprès des Français, dresse un état des lieux de l’impact du manque d’hygiène sur l’estime de soi et sur l’insertion sociale.</p>
+                <div class="btn_container" data-original-title="" title="" aria-describedby="tooltip404208">
+                  <a class="btn btn-custom bg-o-color-2 btn-sm" href="web/image/3823069819?unique=495b331c8fd69c42947d907adf770deed9d3c690" style="border-width: 1px; border-style: solid;" data-original-title="" title="" target="_blank">Je consulte&nbsp;l’infographie</a>
+                  <a class="btn btn-custom bg-o-color-1 btn-sm" href="4eme-barometre-hygiene-precarite-en-france" style="border-width: 1px; border-style: solid;" data-original-title="" title="" target="_blank">Je consulte l’étude</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section id="s_cb08t59f" data-snippet="s_custom_bilan_gauche_archive" style="background-image: none;" class="o_colored_level" data-name="Bloc ETUDE">
+        <div class="container">
+          <div class="grid_container bgblanc px-5 py-2">
+            <div class="bilan_item_left">
+              <img src="web/image/287157-ef514b8a/couverture%20barom%c3%a8tre%20no%c3%abl%202023.jpg" alt="" loading="lazy" data-original-id="287156" data-original-src="/web/image/287156-05172b13/couverture%20barom%C3%A8tre%20no%C3%ABl%202023.jpg" data-mimetype="image/jpeg" data-resize-width="690"/>
+              <div class="content" data-original-title="" title="" aria-describedby="tooltip334169">
+                <h2 data-original-title="" title="" aria-describedby="tooltip371884">
+                        4ème baromètre “Le renoncement à l'achat de cadeaux de Noël, un marqueur de précarité” - décembre 2023<br/></h2>
+                <p data-original-title="" title="" aria-describedby="tooltip516786">La période de Noël, traditionnellement source de joie, cristallise aujourd’hui de plus en plus&nbsp;d’inquiétude et&nbsp;de stress pour les foyers Français. Dans un contexte d’inflation, les Français sont de plus en plus nombreux à devoir procéder à des arbitrages, notamment pour offrir des cadeaux à leurs enfants.&nbsp;<br/><br/></p>
+                <div class="btn_container">
+                  <strong>
+                    <a href="web/image/287205c852?unique=4b2d2bbe75f7407686fcfbd5fbc63d8995270676" target="_blank">Je consulte l'infographie&nbsp;</a>
+                  </strong>
+                  <strong>
+                    <a class="btn btn-custom bg-o-color-1" style="border-width: 1px; border-style: solid;" href="4eme-barometre-le-renoncement-a-l-achat-de-cadeaux-de-noel-un-marqueur-de-precarite-ifop-pour-dons-solidaires-2023" data-original-title="" title="">
+                      <span data-original-title="" title="" aria-describedby="tooltip598116">Je consulte l'étude</span>
+                    </a>
+                  </strong>
+                  <br/>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section id="s_cb08t59f" data-snippet="s_custom_bilan_gauche_archive" style="background-image: none;" class="o_colored_level" data-name="Bloc ETUDE">
+        <div class="container">
+          <div class="grid_container bgblanc px-5 py-2">
+            <div class="bilan_item_left">
+              <img src="web/image/238682-1f641c37/couvjpeg.jpg" alt="" loading="lazy" data-original-title="" title="" aria-describedby="tooltip502486" data-original-id="238681" data-original-src="/web/image/238681-95195905/couvjpeg.jpg" data-mimetype="image/jpeg" data-resize-width="1024"/>
+              <div class="content" data-original-title="" title="" aria-describedby="tooltip334169">
+                <h2 data-original-title="" title="" aria-describedby="tooltip371884" class="o_default_snippet_text">3ème baromètre "Hygiène &amp; Précarité en France" - mars 2023</h2>
+                <p data-original-title="" title="" aria-describedby="tooltip627319">À l'occasion de la sortie de son 3ème baromètre “Hygiène &amp; Précarité en France”, Dons Solidaires lance l'alerte d'une précarité hygiénique grandissante aux conséquences alarmantes sur l’estime de soi et l’inclusion sociale. Consultez notre baromètre 2023 réalisé par l’Ifop pour Dons Solidaires.<br/></p>
+                <p data-original-title="" title="" aria-describedby="tooltip516786">
+</p>
+                <div class="btn_container">
+                  <a href="document/download/77/6edd65b7-04f5-4a52-9cc0-896cdb99210e/113" class="btn btn-secondary" data-original-title="" title="">
+                            Je télécharge l’infographie
+                        </a>
+                  <a href="3eme-barometre-hygiene-precarite-en-france-mars-2023" data-original-title="" title="">
+                            Je consulte l’étude</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section id="s_cb08t59f" data-snippet="s_custom_bilan_gauche_archive" style="background-image: none;" class="o_colored_level" data-name="Bloc ETUDE">
+        <div class="container">
+          <div class="grid_container bgblanc px-5 py-2">
+            <div class="bilan_item_left">
+              <img src="web/image/238505-aca6d85f/renoncement.jpg" alt="" loading="lazy" data-original-title="" title="" aria-describedby="tooltip265246" data-original-id="238503" data-original-src="/web/image/238503-47dad996/renoncement.jpg" data-mimetype="image/jpeg" data-resize-width="600"/>
+              <div class="content" data-original-title="" title="" aria-describedby="tooltip334169">
+                <h2>3ème baromètre “Le renoncement aux achats de Noël, un marqueur de précarité” - décembre 2022</h2>
+                <p>Bien que les fêtes de fin d’année réjouissent la majorité de la population, elles se révèlent être une source d’inquiétude pour près d’un tiers des Français et près de la moitié des personnes les plus précaires. En cause ? Un contexte inflationniste anxiogène.<br/></p>
+                <p data-original-title="" title="" aria-describedby="tooltip516786">
+                  <br/>
+                </p>
+                <div class="btn_container">
+                  <a href="document/download/8/490c6b21-c9cf-4135-8dd2-52dd1b9240c2/70" class="btn btn-secondary" data-original-title="" title="">
+                            Je télécharge l’infographie
+                        </a>
+                  <a href="etudes-3e-barometre-noel-dons-solidaires" data-original-title="" title="">
+                            Je consulte l’étude
+                        </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section id="s_cb08t59f" data-snippet="s_custom_bilan_gauche_archive" style="background-image: none;" class="o_colored_level" data-name="Archive Etudes">
+        <div class="container">
+          <div class="grid_container bgblanc px-5 py-2">
+            <div class="bilan_item_left">
+              <img src="web/image/238506-28614f95/couverture-etude3.jpg" alt="" loading="lazy" data-original-title="" title="" aria-describedby="tooltip583105" data-original-id="238502" data-original-src="/web/image/238502-33d00723/couverture-etude3.jpg" data-mimetype="image/jpeg" data-resize-width="690"/>
+              <div class="content" data-original-title="" title="" aria-describedby="tooltip334169">
+                <h2 data-original-title="" title="" aria-describedby="tooltip371884">
+                        2ème baromètre “Le renoncement aux achats de Noël, un marqueur de précarité” - décembre 2021&nbsp;</h2>
+                <p data-original-title="" title="" aria-describedby="tooltip371884">Engagée dans la lutte contre le gaspillage et l’exclusion sociale depuis sa création en 2004, Dons Solidaires renouvelle avec l’IFOP son baromètre national « Le renoncement aux achats de Noël, un marqueur de précarité » afin de comprendre en cette fin d’année comment les Français appréhendent les fêtes de Noël et d’analyser le phénomène du renoncement aux achats de cadeaux.</p>
+                <p data-original-title="" title="" aria-describedby="tooltip516786">
+                  <br/>
+                </p>
+                <div class="btn_container">
+                  <a href="document/download/9/dd7a374e-600b-49ce-8ceb-74b403339ab6/73" class="btn btn-secondary" data-original-title="" title="">
+                            Je télécharge l’infographie
+                        </a>
+                  <a href="etude-2e-barometre-noel-dons-solidaires" data-original-title="" title="">
+                            Je consulte l’étude
+                        </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section id="s_cb08t59f" data-snippet="s_custom_bilan_gauche_archive" style="background-image: none;" class="o_colored_level" data-name="Bloc ETUDE">
+        <div class="container">
+          <div class="grid_container bgblanc px-5 py-2">
+            <div class="bilan_item_left">
+              <img src="web/image/238507-87f19ef4/hygiene-precarite.jpg" alt="" loading="lazy" data-original-title="" title="" aria-describedby="tooltip726366" data-original-id="238504" data-original-src="/web/image/238504-36ecc91a/hygiene-precarite.jpg" data-mimetype="image/jpeg" data-resize-width="690"/>
+              <div class="content" data-original-title="" title="" aria-describedby="tooltip334169">
+                <h2>2ème baromètre “Hygiène et Précarité en France” - mars 2021</h2>
+                <p>Après un an de crise sanitaire, économique et sociale, le bilan est sans appel : la précarité hygiénique est une réalité bien ancrée. 3 millions de français continuent de se priver de produits d’hygiène de base faute de moyens ; un facteur d’exclusion sociale qui persiste et s’aggrave chez les plus fragiles.<br/></p>
+                <p data-original-title="" title="" aria-describedby="tooltip516786">
+                  <br/>
+                </p>
+                <div class="btn_container">
+                  <a href="document/download/10/0c911baf-6873-41fd-b8de-adedf03adcad/77" class="btn btn-secondary" data-original-title="" title="" aria-describedby="popover735355">
+                            Je télécharge l’infographie
+                        </a>
+                  <a href="etude-2-hygiene-precarite-barometre-dons-solidaires" data-original-title="" title="">
+                            Je consulte l’étude
+                        </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section id="s_cb08t59f" data-snippet="s_custom_bilan_gauche_archive" style="background-image: none;" class="o_colored_level" data-name="Bloc ETUDE">
+        <div class="container">
+          <div class="grid_container bgblanc px-5 py-2">
+            <div class="bilan_item_left">
+              <img src="web/image/239050-4e48a798/couverture-generique.jpg" alt="" loading="lazy" data-original-title="" title="" aria-describedby="tooltip957822" data-original-id="238557" data-original-src="/web/image/238557-91ce79d6/couverture-generique.jpg" data-mimetype="image/jpeg" data-resize-width="690"/>
+              <div class="content" data-original-title="" title="" aria-describedby="tooltip334169">
+                <h2>1er baromètre&nbsp;“Le renoncement aux achats de Noël, un marqueur de précarité” -&nbsp;2020</h2>
+                <p>Engagée dans la lutte contre le gaspillage et l’exclusion sociale depuis sa création en 2004, Dons Solidaires publie avec l’IFOP son baromètre national « Le renoncement aux achats de Noël, un marqueur de précarité » afin de comprendre en cette fin d’année comment les Français appréhendent les fêtes de Noël et d’analyser le phénomène du renoncement aux achats de cadeaux.</p>
+                <p data-original-title="" title="" aria-describedby="tooltip516786">
+                  <br/>
+                </p>
+                <div class="btn_container">
+                  <a href="1er-barometre-noel-2020" data-original-title="" title="">
+                            Je consulte l’étude
+                        </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section id="s_cb08t59f" data-snippet="s_custom_bilan_gauche_archive" style="background-image: none;" class="o_colored_level" data-name="Archive Etudes">
+        <div class="container">
+          <div class="grid_container bgblanc px-5 py-2">
+            <div class="bilan_item_left">
+              <img src="web/image/238967-e52919b8/couverture-generique.jpg" alt="" loading="lazy" data-original-title="" title="" aria-describedby="tooltip719247" data-original-id="238557" data-original-src="/web/image/238557-91ce79d6/couverture-generique.jpg" data-mimetype="image/jpeg" data-resize-width="1024"/>
+              <div class="content">
+                <h2 data-original-title="" title="" aria-describedby="tooltip473715">1er&nbsp;baromètre "Hygiène &amp; Précarité en France" - mars 2019</h2>
+                <p>Un sondage inédit de l’institut IFOP, commandé par l’association Dons Solidaires et réalisé auprès des Français, dresse un état des lieux de l’impact du manque d’hygiène sur l’estime de soi et sur l’insertion sociale.</p>
+                <p data-original-title="" title="" aria-describedby="tooltip853557">
+                  <br/>
+                </p>
+                <div class="btn_container">
+                  <a href="document/download/11/61035515-efac-4bba-9356-c85782405c87/80" class="btn btn-secondary" data-original-title="" title="">
+                            Je télécharge l’infographie
+                        </a>
+                  <a href="etude-1er-barometre-hygiene-precarite-dons-solidaires" data-original-title="" title="">
+                            Je consulte l’étude
+                        </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section id="s_vf6k0ln4" class="py-4 o_colored_level pt0 pb0" data-snippet="s_custom_tips" style="background-image: none;" data-name="Tips" data-original-title="" title="" aria-describedby="tooltip190401">
+        <div class="justify-content-center container">
+          <div class="grid_container bgblanc p-5">
+            <div class="custom_card p-4">
+              <div class="img_presentation">
+                <img src="web/image/238604-05208ad4/plume.png" alt="" loading="lazy" data-original-id="237846" data-original-src="/web/image/237846-f71987de/plume.png" data-mimetype="image/png" data-resize-width="176"/>
+              </div>
+              <div class="title">
+                <h2 style="text-align: left;" data-original-title="" title="" aria-describedby="tooltip241968">
+            Vous êtes journaliste ?<br/></h2>
+              </div>
+              <div class="presentation py-0">
+                <p data-original-title="" title="" aria-describedby="tooltip2500"><span style="color: unset; text-decoration: unset; font-size: 24px;">Vous avez envie d'organiser une interview ou soutenir nos actions ? Pour toute demande contactez notre attaché presse : Nicolas Fuseau&nbsp;au 06 40 36 54 38</span>&nbsp;ou à&nbsp;<span style="color: unset;text-decoration: unset"></span><span style="color: unset; text-decoration: unset; font-size: 24px;">nicolasfuseau.pro@gmail.com&nbsp;</span>
+                  <span style="color: unset;text-decoration: unset"><br/>&nbsp;<br/></span>
+                  <span style="color: unset; text-decoration: unset; font-size: 24px;">Pour découvrir nos temps forts et actualités, consultez nos communiqués et dossiers de presse :</span></p>
+                <p data-original-title="" title="" aria-describedby="tooltip2500">
+                  <span style="color: unset; text-decoration: unset; font-size: 24px;">
+                    <a class="btn btn-custom" style="border-width: 1px; border-style: solid;" href="espace-presse" data-original-title="" title="">Espace presse</a>
+                  </span>
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+                </main>
+                <footer id="bottom" data-anchor="true" data-name="Footer" class="o_footer o_colored_level o_cc ">
+                    <div id="footer" class="oe_structure oe_structure_solo" style="">
+      <section id="custom_section_donation" style="background-image: none;">
+        <div class="container">
+          <div class="custom_grid">
+            <div class="custom_helper">Aider Dons Solidaires</div>
+            <h2 class="title">
+            Vos dons financiers nous aident à agir contre la précarité&nbsp;!          </h2>
+            <div class="action_container">
+              <a href="faire-un-don" data-original-title="" title="">Faire un don</a>
+            </div>
+          </div>
+        </div>
+      </section>
+      <div id="footer" class="oe_structure oe_structure_solo" style="background-image: none;">
+        <section class="s_text_block pt40 pb16" data-snippet="s_text_block" data-name="Text" data-original-title="" title="" aria-describedby="tooltip395507" style="background-image: none;">
+          <div class="container">
+            <div class="row">
+              <div class="pt24 pb24 o_colored_level col-lg-3" data-original-title="" title="" aria-describedby="tooltip810064">
+                <h5 class="mb-3">Liens utiles</h5>
+                <ul class="list-unstyled" data-original-title="" title="" aria-describedby="tooltip837576">
+                  <li data-original-title="" title="" aria-describedby="tooltip760400">
+                    <a href="index.html" data-original-title="" title="">
+                      <font class="text-o-color-1">Accueil</font>
+                    </a>
+                  </li>
+                  <li data-original-title="" title="" aria-describedby="tooltip40962">
+                    <font class="text-o-color-1" data-original-title="" title="" aria-describedby="tooltip681408">
+                      <a href="qui-sommes-nous">Qui sommes-nous ?</a>
+                    </font>
+                  </li>
+                  <li data-original-title="" title="" aria-describedby="tooltip40962">
+                    <font class="text-o-color-1" data-original-title="" title="" aria-describedby="tooltip83850">
+                      <a href="faq-entreprise" data-original-title="" title="">FAQ Entreprises</a>
+                    </font>
+                  </li>
+                  <li data-original-title="" title="" aria-describedby="tooltip40962">
+                    <font class="text-o-color-1" data-original-title="" title="" aria-describedby="tooltip727139">
+                      <a href="faq-association">FAQ Associations</a>
+                    </font>
+                  </li>
+                  <li data-original-title="" title="" aria-describedby="tooltip40962">
+                    <font class="text-o-color-1" data-original-title="" title="" aria-describedby="tooltip212863">
+                      <a href="nous-rejoindre">Nous rejoindre</a>
+                    </font>
+                  </li>
+                  <li data-original-title="" title="" aria-describedby="tooltip40962">
+                    <font class="text-o-color-1">
+                      <a href="mentions-legales">Mentions légales</a>
+                    </font>
+                  </li>
+                  <li data-original-title="" title="" aria-describedby="tooltip40962">
+                    <font class="text-o-color-1">
+                      <a href="politique-de-confidentialite" data-original-title="" title="">Politique de confidentialité</a>
+                    </font>
+                  </li>
+                  <li data-original-title="" title="" aria-describedby="tooltip40962">
+                    <font class="text-o-color-1">
+                      <a href="espace-presse">Espace presse</a>
+                    </font>
+                  </li>
+                </ul>
+              </div>
+              <div class="col-lg-5 pt24 pb24 o_colored_level" data-original-title="" title="" aria-describedby="tooltip957580">
+                <h5 class="mb-3" data-original-title="" title="" aria-describedby="tooltip206528">À propos</h5>
+                <p>
+               &nbsp;Depuis 2004, Dons Solidaires lutte contre le gaspillage et l'exclusion sociale en collectant des produits neufs non-alimentaires auprès des entreprises et en les redistribuant à des associations partout en France pour en faire bénéficier des personnes en difficulté.
+</p>
+              </div>
+              <div id="connect" class="pt24 pb24 o_colored_level col-lg-4" data-original-title="" title="" aria-describedby="tooltip955544">
+                <h5 class="mb-3">Coordonnées</h5>
+                <ul class="list-unstyled">
+                  <li data-original-title="" title="" aria-describedby="tooltip460625"><i class="fa fa-envelope fa-fw mr-2"></i>
+                    &nbsp;<a href="mailto:contact@donsolidaires.fr" data-original-title="" title="">Nous contacter</a>&nbsp;
+                  </li>
+                  <li data-original-title="" title="" aria-describedby="tooltip444206">
+                    <i class="fa fa-phone fa-fw mr-2"></i>
+                    <span class="o_force_ltr">
+                      <font class="text-o-color-3" data-original-title="" title="" aria-describedby="tooltip991095"></font>
+                      <a href="tel:+33139168697" data-original-title="" title="">
+                        <font class="text-o-color-3" data-original-title="" title="" aria-describedby="tooltip991095">01 39 16 86 97</font>
+                      </a>
+                      <font class="text-o-color-3" data-original-title="" title="" aria-describedby="tooltip387640"></font>
+                    </span>
+                  </li>
+                  <p data-original-title="" title="" aria-describedby="tooltip968903">
+                    <a href="contact" data-original-title="" title="">Nos formulaires de contact</a>
+                  </p>
+                  <p data-original-title="" title="" aria-describedby="tooltip968903">&nbsp;<br/>
+                  </p>
+                  <p data-original-title="" title="" aria-describedby="tooltip759933" style="text-align: left;">
+                    <a href="https://ds-solidaires.odoo.com/my" target="_blank" data-original-title="" title="" class="btn btn-secondary">Se connecter au catalogue</a>
+                  </p>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+      <section id="custom_section_social" style="background-image: none;">
+        <div class="container">
+          <div class="custom_grid">
+            <div class="custom_social_media">
+              <div class="s_share text-left" data-snippet="s_share" data-name="Social Media" data-original-title="" title="" aria-describedby="tooltip14557">
+                <a href="https://www.facebook.com/donssolidaires" class="s_share_facebook" target="_blank" data-original-title="" title="">
+                  <h5 class="s_share_title d-none">Suivez-nous</h5>
+                  <i class="fa fa-facebook rounded-circle shadow-sm" data-original-title="" title="" aria-describedby="tooltip277724"></i>
+                </a>
+                <a href="https://twitter.com/DonsSolidaires" class="s_share_twitter" target="_blank" data-original-title="" title="">
+                  <i class="fa fa-twitter rounded-circle shadow-sm" data-original-title="" title="" aria-describedby="tooltip250415"></i>
+                </a>
+                <a href="https://www.linkedin.com/company/dons-solidaires/?trk=biz-companies-cym" class="s_share_linkedin" target="_blank" data-original-title="" title="">
+                  <i class="fa fa-linkedin rounded-circle shadow-sm" data-original-title="" title="" aria-describedby="tooltip166408"></i>
+                </a>
+                <a href="https://www.instagram.com/donsolidaires/" class="text-800 float-right" data-original-title="" title="" target="_blank">
+                  <i class="fa rounded-circle shadow-sm fa-instagram" data-original-title="" title="" aria-describedby="tooltip641475"></i>
+                </a>
+              </div>
+            </div>
+            <div class="custom_newsletter">
+              <label>
+                <br/>
+              </label>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+  <div class="o_footer_copyright o_colored_level o_cc" data-name="Copyright">
+                        <div class="container py-3">
+                            <div class="row">
+                                <div class="col-sm text-center text-sm-left text-muted">
+                                    <span class="o_footer_copyright_name mr-2"><span style="color: rgba(255, 255, 255, 0.7); font-size: 18px; background-color: inherit;" data-original-title="" title="" aria-describedby="tooltip237116">Fait avec ♥️ par&nbsp;</span><a href="https://lapierrequimousse.com/" target="_blank">La Pierre qui Mousse<br/></a>Copyright © Dons Solidaires</span>
+                                </div>
+                                <div class="col-sm text-center text-sm-right o_not_editable">
+        <div class="o_brand_promotion">
+        Créé avec 
+            <a target="_blank" class="badge badge-light" href="http://www.odoo.com/?utm_source=db&amp;utm_medium=website">
+                <img alt="Odoo" src="web/static/img/odoo_logo_tiny.png" style="height: 1em; vertical-align: baseline;" loading="lazy"/>
+            </a>
+        - 
+                    Le #1 <a target="_blank" href="http://www.odoo.com/app/ecommerce?utm_source=db&amp;utm_medium=website">Open Source eCommerce</a>
+        </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </footer>
+            </div>
+        <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WHVKFV3"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<script>
+checkShopSection()
+function hideMenuElement(){
+    let menuElement = document.getElementById('top_menu')
+    let children = menuElement.childNodes
+    let length = children.length
+    let lastChildren = [
+        document.querySelector(".o_wsale_my_cart"),
+        document.querySelector("#top_menu li.o_no_autohide_item")
+        //children[length -1]
+    ]
+    while (menuElement.lastElementChild) {
+        menuElement.removeChild(menuElement.lastElementChild);
+    }
+    return lastChildren
+}
+function generateMenuItems(link, name, submenu){
+    let container = document.createElement('li');
+    container.classList.add('nav-item')
+    if(!submenu){
+        let linkElement = document.createElement('a')
+        linkElement.classList.add("nav-link")
+        linkElement.role = "menuitem"
+        linkElement.href = link
+        let spanElement = document.createElement("span")
+        spanElement.dataset.OeModel = "website.menu"
+        spanElement.dataset.OeId = "101"
+        spanElement.dataset.OeField = "name"
+        spanElement.dataset.OeType = "char"
+        spanElement.dataset.OeExpression = "submenu.name"
+        spanElement.innerText = name
+        linkElement.appendChild(spanElement)
+        container.appendChild(linkElement)
+    } else {
+        container.classList.add("drowpdown")
+        container.style.position = "relative"
+        let linkElement = document.createElement('a')
+        linkElement.dataset.toggle="dropdown"
+        linkElement.href = "#"
+        linkElement.classList.add("nav-link","dropdown-toggle")
+        linkElement.ariaExpended=false
+        let spanElement = document.createElement("span")
+        spanElement.dataset.oeModel = "website.menu"
+        spanElement.dataset.oeId = "1010"
+        spanElement.dataset.oeField = "name"
+        spanElement.dataset.oeType = "char"
+        spanElement.dataset.oeExpression = "submenu.name"
+        spanElement.dataset.oeXpath = "/t[1]/li[2]/a[1]/span[1]"
+        spanElement.innerText = name
+        let sdSpanElement = document.createElement("span")
+        sdSpanElement.classList.add("o_ripple_item")
+        sdSpanElement.style.animationDuration= "350ms"
+        sdSpanElement.style.width = "151.781px"
+        sdSpanElement.style.height = "151.781px"
+        sdSpanElement.style.top = "-59.0155px"
+        sdSpanElement.style.left = "65.8126px"
+        let ulElement = generateSubMenuItems()
+        linkElement.appendChild(spanElement)
+        linkElement.appendChild(sdSpanElement)
+        container.appendChild(linkElement)
+        container.appendChild(ulElement)
+    }
+    return container
+}
+function generateSubMenuItems(){
+    let items = [
+        {
+            name: "Noël pour tous",
+            slug: "noel-pour-tous-1"
+        },
+                {
+            name: "Fournitures scolaires",
+            slug: "fournitures-scolaires-106"
+        },
+                {
+            name: "Hygiène",
+            slug: "hygiene-128"
+        },
+                {
+            name: "Entretien",
+            slug: "entretien-24"
+        },
+    ]
+    let ulElement = document.createElement('ul')
+    ulElement.classList.add("dropdown-menu","dropdown-menu-left")
+    ulElement.role="menu"
+    items.forEach(item => {
+        ulElement.appendChild(createSubMenuItem(item.name, item.slug))
+    })
+    return ulElement
+}
+function createSubMenuItem(name, slug){
+        let liElement = document.createElement('li')
+        let aElement = document.createElement('a')
+        aElement.role="menuitem"
+        aElement.href= "/shop/category/" + slug
+        aElement.classList.add("dropdown-item")
+        let spanElement = document.createElement("span")
+        spanElement.dataset.oeModel = "website.menu"
+        spanElement.dataset.oeId = "101"
+        spanElement.dataset.oeField = "name"
+        spanElement.dataset.oeType = "char"
+        spanElement.dataset.oeExpression = "submenu.name"
+        spanElement.innerText = name
+        aElement.appendChild(spanElement)
+        liElement.appendChild(aElement)
+        return liElement
+}
+function replaceMenu(){
+    let lastChildren = hideMenuElement()
+    let items = [
+        {
+            link:"/shop",
+            name:"E-catalogue",
+            submenu: false
+        },
+        /*{
+            link:"/my",
+            name:"Mon compte",
+            submenu: false
+        },*/
+        {
+            link:"/contact-e-catalogue",
+            name:"Nous contacter",
+            submenu: false
+        }]
+    let menuElement = document.getElementById('top_menu')
+    menuElement.classList.add("menu-shop")
+    let elements = []
+    console.log(items)
+    items.forEach(item => {
+        elements.push(generateMenuItems(item.link, item.name, item.submenu))
+    })
+    elements.push(...lastChildren)
+    elements.forEach(element => {
+        menuElement.appendChild(element)
+    })
+    let cartElement = document.querySelector("#top_menu li.o_wsale_my_cart")
+    cartElement.parentElement.parentElement.appendChild(cartElement)
+    document.querySelector("#top_menu_container .logo").href = "shop"
+}
+function checkShopSection(){
+    let endpoints = [
+        "/shop", "/my", "/contact-e-catalogue"
+    ]
+    let isShopSection = false
+    endpoints.forEach(endpoint => {
+        let url = window.location.host + endpoint
+        if(window.location.href.includes(url)){
+            replaceMenu()
+        }
+    })
+}
+let form = document.querySelector("form.o_wsale_products_searchbar_form")
+if(form){
+    form.parentElement.removeChild(form)
+}
+</script>
+    </body>
+        
+<!-- Mirrored from www.donsolidaires.fr/nos-etudes by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 04 Mar 2024 08:32:10 GMT -->
+</html>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="538px" viewBox="0 0 25 538" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Artboard Copy</title>
+    <g id="Artboard-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M19,6.41601562 C8.33333333,14.8401008 3,24.0963185 3,34.1846686 C3,47.5142993 19,54.1791944 19,79.1177662 C19,94.3347556 3,111.705172 3,131.244105 C3,150.219568 19,155.941803 19,178.993528 C19,188.076411 3,223.557261 3,236.615504 C3,249.475235 19,269.570878 19,298.526022 C19,319.748555 3,313.081033 3,377.416016" id="Path-2" stroke="#F47922" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1,14"></path>
+        <circle id="Oval" fill="#F47922" cx="19" cy="6" r="6"></circle>
+    </g>
+</svg>

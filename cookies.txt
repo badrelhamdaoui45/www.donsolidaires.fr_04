@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.donsolidaires.fr	TRUE	/	FALSE	1999999999	frontend_lang	fr_FR
+www.donsolidaires.fr	TRUE	/	FALSE	1999999999	visitor_uuid	fe30b19f8e504465ac969b550555d9fd
+sante.gouv.fr	TRUE	/	FALSE	1999999999	BIGipServerpool-dicom-portail-dares.cegedim.cloud-HTTP	!5XQfIlV0N1qwDcVWDPlD0yXzT0UGhpyH8nMXD0a7ZYVTzqPV+FYK0JoQamIZUYUKgR4AhcEBqoStrvQHLXj0xZUYNEqT
+sante.gouv.fr	TRUE	/	FALSE	1999999999	TS01f99fc7	01352d38110e007cb578327cd5e0cee48e66181aa6d2a68e8f630286b304cbecda592c358fa27bf051f5f3abb30e16fa259014f2fe
+www.donsolidaires.fr	TRUE	/	FALSE	1999999999	session_id	2c1d70fb6e11322ce429730f018bec8d167fea4e
+
